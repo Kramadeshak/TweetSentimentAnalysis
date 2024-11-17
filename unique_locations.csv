@@ -1,4 +1,4 @@
-,Location,Country
+Unnamed: 0,Location,Country
 0,unknown,unknown_location
 1,United States,United States of America
 2,"London, England",United Kingdom
@@ -16,12 +16,12 @@
 14,"California, USA",United States of America
 15,"Toronto, Ontario",Canada
 16,"Chicago, IL",United States of America
-17,"New York, USA",United States of America
+17,"New York, USA",United States
 18,Global,unknown_location
 19,"Boston, MA",United States of America
 20,"San Francisco, CA",United States of America
 21,"Atlanta, GA",United States of America
-22,New York,United States of America
+22,New York,United States
 23,"New Delhi, India",India
 24,"Lagos, Nigeria",Nigeria
 25,"Texas, USA",United States of America
@@ -64,7 +64,7 @@
 62,"Scotland, United Kingdom",United Kingdom
 63,Malaysia,Malaysia
 64,England,United Kingdom
-65,Texas,United States
+65,Texas,United States of America
 66,"Michigan, USA",United States
 67,"Pennsylvania, USA",United States
 68,"Johannesburg, South Africa",South Africa
@@ -119,7 +119,7 @@
 117,"Adelaide, South Australia",Australia
 118,"Ohio, USA",United States of America
 119,Manchester,United Kingdom
-120,"MontrÃÂ©al, QuÃÂ©bec",unknown
+120,"MontrÃÂÃÂ©al, QuÃÂÃÂ©bec",Canada
 121,Florida,United States of America
 122,"Tampa, FL",United States of America
 123,"Bristol, England",United Kingdom
@@ -301,11 +301,11 @@
 299,"Kansas, USA",United States of America
 300,"Coimbatore, India",India
 301,"Santa Barbara, CA",United States of America
-302,MÃÂ©xico,unknown
+302,MÃÂÃÂ©xico,United Mexican States
 303,"Louisville, KY",United States of America
 304,Kuwait,Kuwait
 305,"Phoenix, Arizona",United States of America
-306,America,United States of America
+306,America,United States
 307,"Toronto, ON",Canada
 308,"East, England",United Kingdom
 309,San Francisco Bay Area,United States of America
@@ -321,7 +321,7 @@
 319,"Preston, England",United Kingdom
 320,National Capital Region,Philippines
 321,South Florida,United States of America
-322,Bikeville ,unknown
+322,Bikeville ,unknown_location
 323,"Omaha, NE",United States of America
 324,"Salt Lake City, Utah",United States of America
 325,Finland,Finland
@@ -352,7 +352,7 @@
 350,Belfast,United Kingdom
 351,"Ulaanbaatar, Mongolia",Mongolia
 352,"Montreal, Canada",Canada
-353,Indiana,United States
+353,Indiana,United States of America
 354,???????,unknown_location
 355,New England,United States of America
 356,"Baton Rouge, LA",United States of America
@@ -406,7 +406,7 @@
 404,?????,unknown_location
 405,Washington,United States of America
 406,World Wide,unknown_location
-407,MÃÂ©xico D.F,unknown
+407,MÃÂÃÂ©xico D.F,Mexico
 408,Rwanda,Rwanda
 409,"Burlington, VT",United States of America
 410,"Vermont, USA",United States of America
@@ -417,7 +417,7 @@
 415,Nowhere,unknown_location
 416,"Zurich, Switzerland",Switzerland
 417,"Cincinnati, Ohio",United States of America
-418,"Long Beach, CA",United States of America
+418,"Long Beach, CA",United States
 419,Netherlands,Netherlands
 420,Brighton,United Kingdom
 421,Zimbabwe,Zimbabwe
@@ -468,7 +468,7 @@
 466,"Boulder, CO",United States of America
 467,"Clearwater, Florida",United States of America
 468,"Belfast, Northern Ireland",United Kingdom of Great Britain and Northern Ireland
-469,"?stanbul, TÃÂ¼rkiye",unknown
+469,"?stanbul, TÃÂÃÂ¼rkiye",unknown
 470,everywhere,unknown_location
 471,"Chandigarh, India",India
 472,"Dubai, UAE",United Arab Emirates
@@ -508,7 +508,7 @@
 506,"Hull, England",United Kingdom
 507,"Santa Monica, CA",United States of America
 508,Sacramento,United States of America
-509,Nashville,United States of America
+509,Nashville,United States
 510,Gurgaon,India
 511,"Victoria, British Columbia",Canada
 512,Brentford,United Kingdom
@@ -599,7 +599,7 @@
 597,"Calgary, Alberta, Canada",Canada
 598,Edmonton Alberta,Canada
 599,"Toledo, OH",United States of America
-600,Earth ,unknown
+600,Earth ,unknown_location
 601,"Vancouver, BC, Canada",Canada
 602,"Fort Atkinson, WI",United States of America
 603,Qatar,Qatar
@@ -620,7 +620,7 @@
 618,Pittsburgh,United States of America
 619,"Bromley, London",United Kingdom
 620,Jammu And Kashmir,India
-621,USA ,unknown
+621,USA ,United States of America
 622,"Ottawa, Ontario, Canada",Canada
 623,"Oslo, Norway",Norway
 624,"Deerfield, IL",United States of America
@@ -629,7 +629,7 @@
 627,Nepal,Nepal
 628,Somewhere,unknown_location
 629,???,unknown_location
-630,England ,unknown
+630,England ,United Kingdom
 631,"Columbia, SC",United States of America
 632,Global Citizen,unknown_location
 633,"Teesdale Park, Thornaby, UK",United Kingdom
@@ -698,10 +698,10 @@
 696,Toronto Canada,Canada
 697,"Plymouth, England",United Kingdom
 698,global,unknown_location
-699,"ÃÂT: 39.924362,-85.959195",unknown
+699,"ÃÂÃÂT: 39.924362,-85.959195",United States of America
 700,"Marietta, GA",United States
 701,"Montpellier, France",France
-702,Virtual EconomyÃÂ® ????? ,unknown
+702,Virtual EconomyÃÂÃÂ® ????? ,unknown_location
 703,Austria,Austria
 704,Indianapolis,United States
 705,"Dhamtari,Raipur,india.",India
@@ -720,7 +720,7 @@
 718,"Helsinki, Finland",Finland
 719,Warwickshire,United Kingdom
 720,Gotham City,unknown_location
-721,Mysore  and  BERLIN,unknown
+721,Mysore  and  BERLIN,unknown_location
 722,Russia,Russian Federation
 723,U.S.A.,United States of America
 724,Hertfordshire,United Kingdom of Great Britain and Northern Ireland
@@ -729,7 +729,7 @@
 727,"Concord, NH",United States of America
 728,Stockholm,Kingdom of Sweden
 729,Kolkata,Republic of India
-730,"Ankara, TÃÂ¼rkiye",unknown
+730,"Ankara, TÃÂÃÂ¼rkiye",Türkiye
 731,WANA/Arab region,unknown_location
 732,"Philadelphia PA, USA",United States of America
 733,Denver,United States of America
@@ -748,14 +748,14 @@
 746,Macau,China
 747,"Norwalk, Connecticut",United States of America
 748,Italia,Italy
-749,Vancouver ÃÂ· http://reiver.ca/,unknown
+749,Vancouver ÃÂÃÂ· http://reiver.ca/,Canada
 750,"Niagara, Ontario",Canada
 751,"Kaduna, Nigeria",Nigeria
 752,DFW,United States of America
 753,Tokyo,Japan
 754,"Whitby, Ontario",Canada
 755,Offices in 40+ countries,unknown_location
-756,"MÃÂ¼nchen, Bayern",unknown
+756,"MÃÂÃÂ¼nchen, Bayern",Germany
 757,"Morehead, KY",United States of America
 758,"Des Moines, Iowa",United States of America
 759,TEXAS,United States of America
@@ -813,7 +813,7 @@
 811,Chicago IL,United States of America
 812,Wellington NZ,New Zealand
 813,Southeastern Pennsylvania,United States of America
-814,Texas ,unknown
+814,Texas ,United States of America
 815,New York State,United States of America
 816,"Hartford, CT",United States of America
 817,"Clarksburg, WV",United States of America
@@ -842,7 +842,7 @@
 840,"Westminster, London",United Kingdom
 841,"Naples, FL",United States
 842,"Christchurch City, New Zealand",New Zealand
-843,"MedellÃÂ­n, Colombia",unknown
+843,"MedellÃÂÃÂ­n, Colombia",Colombia
 844,Wellington,New Zealand
 845,Punjab,India
 846,Milano Italy,Italy
@@ -887,9 +887,9 @@
 885,"New York,NY",United States of America
 886,"Madison, Wisconsin",United States of America
 887,"Sandton, South Africa",South Africa
-888,"London, England ",unknown
+888,"London, England ",United Kingdom
 889,"Albuquerque, New Mexico",United States of America
-890,"Southfield, Michigan ",unknown
+890,"Southfield, Michigan ",United States of America
 891,Charleston,United States of America
 892,"Lincoln, NE",United States of America
 893,Milano,Italy
@@ -912,11 +912,11 @@
 910,Surat,India
 911,Great Britain,United Kingdom
 912,"Kathmandu, Nepal",Nepal
-913,California ,unknown
+913,California ,United States of America
 914,"Greenwich, London",United Kingdom of Great Britain and Northern Ireland
 915,"Humber Region, England",United Kingdom of Great Britain and Northern Ireland
-916,SÃÂ£o Paulo,unknown
-917,TrumpÃÂs Nightmares,unknown
+916,SÃÂÃÂ£o Paulo,unknown_location
+917,TrumpÃÂÃÂs Nightmares,unknown_location
 918,"Lexington, Kentucky",United States of America
 919,"Bolton, England",United Kingdom of Great Britain and Northern Ireland
 920,Ankara,Republic of Turkey
@@ -935,8 +935,8 @@
 933,"Lake Oswego, OR",United States of America
 934,SE London,United Kingdom
 935,"Wakefield, England",United Kingdom
-936,"Brussel, BelgiÃÂ«",unknown
-937,"ÃÂT: 37.770364,-122.410351",unknown
+936,"Brussel, BelgiÃÂÃÂ«",Belgium
+937,"ÃÂÃÂT: 37.770364,-122.410351",United States of America
 938,"Davis, CA",United States of America
 939,Lagos nigeria,Nigeria
 940,Wiltshire UK,United Kingdom
@@ -1101,7 +1101,7 @@
 1099,"Uxbridge, London",United Kingdom
 1100,Norfolk,United Kingdom
 1101,Leicestershire,United Kingdom
-1102,Planet Earth mainly. ,unknown
+1102,Planet Earth mainly. ,unknown_location
 1103,"Manitoba, Canada",Canada
 1104,"Victoria, BC, Canada",Canada
 1105,Ph Guillermo Munt,unknown_location
@@ -1154,8 +1154,8 @@
 1152,"Antwerp, Belgium",Belgium
 1153,"Victoria, Canada",Canada
 1154,he/him,unknown_location
-1155,Sacramento ,unknown
-1156,london ,unknown
+1155,Sacramento ,United States of America
+1156,london ,United Kingdom
 1157,"Redmond, WA",United States
 1158,"Hollywood, Los Angeles",United States
 1159,"Manhattan, NYC",United States
@@ -1164,7 +1164,7 @@
 1162,Chandigarh,India
 1163,"Melbourne, Vic",Australia
 1164,"Redondo Beach, CA",United States of America
-1165,MontrÃÂ©al,unknown
+1165,MontrÃÂÃÂ©al,Canada
 1166,"Manchester, NH",United States of America
 1167,"Trumbull, CT",United States of America
 1168,india,India
@@ -1172,7 +1172,7 @@
 1170,"Chester, England",United Kingdom of Great Britain and Northern Ireland
 1171,"Guelph, Ontario",Canada
 1172,"Barnsley, England",United Kingdom of Great Britain and Northern Ireland
-1173,Kenya ,unknown
+1173,Kenya ,Kenya
 1174,"Athens, OH",United States of America
 1175,"Moscow, Russia",Russian Federation
 1176,"Tulsa, Oklahoma",United States of America
@@ -1195,7 +1195,7 @@
 1193,"El Segundo, CA",United States
 1194,"London, ON",Canada
 1195,Nanning,China
-1196,"Nashville, TN  USA",unknown
+1196,"Nashville, TN  USA",United States of America
 1197,Venus,unknown_location
 1198,Everywhere!,unknown_location
 1199,Nairobi Kenya,Kenya
@@ -1214,7 +1214,7 @@
 1212,"Huntsville, AL",United States of America
 1213,"Cape Cod, MA",United States of America
 1214,"Fort Worth, Texas",United States of America
-1215,(ÃÂ )( ÃÂ),unknown
+1215,(ÃÂÃÂ )( ÃÂÃÂ),unknown_location
 1216,"Elgin, IL",United States of America
 1217,"Surrey, UK",United Kingdom
 1218,London . Najaf,unknown_location
@@ -1238,7 +1238,7 @@
 1236,"Bern, Switzerland.",Switzerland
 1237,Fredericton,Canada
 1238,TX,United States
-1239,Global ,unknown
+1239,Global ,unknown_location
 1240,"Durham, England",United Kingdom
 1241,"Thame, England",United Kingdom
 1242,"Alpharetta, GA",United States
@@ -1265,18 +1265,18 @@
 1263,"Donegal, Ireland",Ireland
 1264,northampton,United Kingdom
 1265,Oldham,United Kingdom
-1266,ParisÃÂLondonÃÂNew YorkÃÂMunich,unknown
+1266,ParisÃÂÃÂLondonÃÂÃÂNew YorkÃÂÃÂMunich,unknown_location
 1267,Centreville ,United States
 1268,"Ocala, FL",United States
 1269,The moon,unknown_location
 1270,"Colchester, England",United Kingdom
-1271,"ZÃÂ¼rich, Schweiz",unknown
+1271,"ZÃÂÃÂ¼rich, Schweiz",Switzerland
 1272,VA ?? MI,United States
 1273,"Wicklow, Ireland",Ireland
 1274,"First Hill, Seattle",United States
 1275,"Aptos, CA",United States
 1276,Guelph.,Canada
-1277,"Bruselas, BÃÂ©lgica",unknown
+1277,"Bruselas, BÃÂÃÂ©lgica",unknown_location
 1278,Anglesey,United Kingdom
 1279,Heaven ,unknown_location
 1280,The Dump,unknown_location
@@ -1304,7 +1304,7 @@
 1302,??g?? ????!,unknown_location
 1303,"Oakland, California",United States
 1304,Milan,Italy
-1305,DongwooÃÂs Back Pocket,unknown
+1305,DongwooÃÂÃÂs Back Pocket,unknown
 1306,Boston/Washington DC,United States
 1307,"Beverley, England",United Kingdom
 1308,"Vancouver, Washington ??",United States of America
@@ -1318,13 +1318,13 @@
 1316,University of Birmingham,United Kingdom
 1317,"Calgary, AB",Canada
 1318,Staffordshire,United Kingdom
-1319,"Sacramento, California ",unknown
+1319,"Sacramento, California ",United States of America
 1320,"Lichfield, England",United Kingdom
-1321,"Sheffield, United Kingdom ",unknown
-1322,Beijing China ,unknown
+1321,"Sheffield, United Kingdom ",United Kingdom
+1322,Beijing China ,China
 1323,"York, UK",United Kingdom
 1324,"Jakarta, Indonesia",Indonesia
-1325,Fiji ,unknown
+1325,Fiji ,Fiji
 1326,"Merton, London",United Kingdom
 1327,"Devon, UK",United Kingdom
 1328,"Paisley, Scotland",United Kingdom
@@ -1387,13 +1387,13 @@
 1385,BRing THE TruTh THROUGH a picture,unknown_location
 1386,Tunbridge Wells,United Kingdom
 1387,"Chatham-Kent, Ontario",Canada
-1388,"KÃÂ¶ln, Deutschland",unknown
+1388,"KÃÂÃÂ¶ln, Deutschland",Germany
 1389,"Harrogate, England",United Kingdom
 1390,South Dakota,United States of America
-1391,Athi river ,unknown
+1391,Athi river ,unknown_location
 1392,New York & Beirut,unknown_location
 1393,"Straubing, Germany",Germany
-1394,"WolfenbÃÂ¼ttel, Germany",unknown
+1394,"WolfenbÃÂÃÂ¼ttel, Germany",Germany
 1395,"Worcester, England",United Kingdom
 1396,"Arlington, VA | New York, NY",unknown_location
 1397,"Columbus native, SE Ohio now.",United States of America
@@ -1413,13 +1413,13 @@
 1411,"Denham Springs, LA",United States of America
 1412,"Vienna, VA",United States of America
 1413,"Ramona, CA",United States of America
-1414,"Wien, ÃÂsterreich",unknown
+1414,"Wien, ÃÂÃÂsterreich",Austria
 1415,A box,unknown_location
 1416,"West Lafayette, IN",United States of America
 1417,"Nashville, Tennessee",United States of America
 1418,Srinagar,India
 1419,White Pearl of the Indian Ocea,unknown_location
-1420,ÃÂwu lakoda!!,unknown
+1420,ÃÂÃÂwu lakoda!!,unknown_location
 1421,"Bendigo, Victoria",Australia
 1422,Durban,South Africa
 1423,"Naples, Florida",United States of America
@@ -1428,7 +1428,7 @@
 1426,"Newton, MA",United States of America
 1427,"South Holland, The Netherlands",Netherlands
 1428,"Cheltenham, England",United Kingdom
-1429, Ginninderra Creek Canberra Oz,unknown
+1429, Ginninderra Creek Canberra Oz,Australia
 1430,Bermuda,Bermuda
 1431,Carlton-McMinnville-Newberg OR,United States of America
 1432,Malvern,United Kingdom
@@ -1502,15 +1502,15 @@
 1500,"Immokalee, FL",United States of America
 1501,Gold Coast,Australia
 1502,"Boise, Idaho",United States of America
-1503, ??,unknown
+1503, ??,unknown_location
 1504,"Berlin, Athens",unknown_location
 1505,Left coast.,unknown_location
 1506,UNITED AS ONE . DIVIDED BY ZERO,unknown_location
-1507,#Yangtuary ,unknown
-1508,"Peshawar, Pakistan ",unknown
+1507,#Yangtuary ,unknown_location
+1508,"Peshawar, Pakistan ",Pakistan
 1509,"Wayne County, MI",United States of America
 1510,New York City area,United States of America
-1511,Wight City Missouri USA. ,unknown
+1511,Wight City Missouri USA. ,United States of America
 1512,"Bloomington, Illinois",United States of America
 1513,Ottawa Ontario Canada,Canada
 1514,Based @1871Chicago,unknown_location
@@ -1519,7 +1519,7 @@
 1517,Central New York,United States of America
 1518,Laurentia,unknown_location
 1519,#USA,United States of America
-1520,Lima-PerÃÂº,unknown
+1520,Lima-PerÃÂÃÂº,Peru
 1521,New Mexico,United States of America
 1522,"Saskatoon, Saskatchewan",Canada
 1523,"Wayne, PA",United States of America
@@ -1536,7 +1536,7 @@
 1534,Sydney ,Australia
 1535,"Solihull, England",United Kingdom
 1536,"Jeddah, Saudi Arabia",Saudi Arabia
-1537,"ÃÂT: 3.099457,101.681025",unknown
+1537,"ÃÂÃÂT: 3.099457,101.681025",unknown_location
 1538,"St. Petersburg, Florida",United States of America
 1539,Thames Valley,United Kingdom
 1540,"Salisbury, England",United Kingdom
@@ -1584,7 +1584,7 @@
 1582,"Dublin, OH",United States of America
 1583,"Bloemfontein, South Africa",South Africa
 1584,"Seattle, Washington",United States of America
-1585,"BogotÃÂ¡, D.C., Colombia",unknown
+1585,"BogotÃÂÃÂ¡, D.C., Colombia",Colombia
 1586,Heart,unknown_location
 1587,"Greater Richmond, Williamsburg",unknown_location
 1588,"Tampa Bay, FL",United States
@@ -1777,7 +1777,7 @@
 1775,"Winter Park, FL",United States
 1776,Southeast Asia,unknown_location
 1777,"Salford, England",United Kingdom
-1778,BelgiÃÂ«,unknown
+1778,BelgiÃÂÃÂ«,unknown_location
 1779,Southeastern U.S.,unknown_location
 1780,Eastbourne,United Kingdom
 1781,Hertford,United Kingdom
@@ -1827,7 +1827,7 @@
 1825,"Nueva York, USA",United States of America
 1826,"Indore, Madhya Pradesh",India
 1827,"Altstadt-Lehel, Munich",Germany
-1828,Villaviciosa de OdÃÂ³n - Madrid,unknown
+1828,Villaviciosa de OdÃÂÃÂ³n - Madrid,Spain
 1829,"Sao Paulo, Brasil",Brazil
 1830,Central Asia ,unknown_location
 1831,Gulf area of southern U. S.,United States of America
@@ -1870,7 +1870,7 @@
 1868,"The Country, Virginia, USA",United States
 1869,In the Archives ,unknown_location
 1870,#NYC,unknown_location
-1871,"ÃÂT: 34.278157,-118.395992",unknown
+1871,"ÃÂÃÂT: 34.278157,-118.395992",unknown_location
 1872,"Pasig City, National Capital R",Philippines
 1873,Wisconsin & Minnesota,United States
 1874,Cyprus & Australia,unknown_location
@@ -1890,7 +1890,7 @@
 1888,"Kuching, Sarawak",Malaysia
 1889,"Laois, Ireland",Ireland
 1890,"Watertown, NY",United States
-1891,?eskÃÂ¡ republika,unknown
+1891,?eskÃÂÃÂ¡ republika,Czech Republic
 1892,Nottingham UK,United Kingdom
 1893,"Montebello, CA",United States
 1894,Stokholm  Sweden  | ,Sweden
@@ -1925,7 +1925,7 @@
 1923,England and Wales,United Kingdom
 1924,Derry,United Kingdom
 1925,Usually in the North,unknown_location
-1926,exo ÃÂ rv ÃÂ kris wu,unknown
+1926,exo ÃÂÃÂ rv ÃÂÃÂ kris wu,unknown_location
 1927,"Leeds, UK",United Kingdom
 1928,Chicago / Northbrook,United States of America
 1929,"Coleraine, Northern Ireland",United Kingdom
@@ -1975,7 +1975,7 @@
 1973,Behind you,unknown_location
 1974,"Zanzibar,Tanzania",Tanzania
 1975,"Bonn, Germany",Germany
-1976,"ÃÂT: 40.868467,-74.65232",unknown
+1976,"ÃÂÃÂT: 40.868467,-74.65232",United States of America
 1977,New York / Atlanta,United States
 1978,"Ikoyi, Lagos",Nigeria
 1979,Kathmandu,Nepal
@@ -2006,9 +2006,9 @@
 2004,Vale of Belvoir,United Kingdom
 2005,"Chicago, Midland-Odessa",United States of America
 2006,"Fort Walton Beach, FL",United States of America
-2007,"ÃÂT: 33.297888,-111.989183",unknown
+2007,"ÃÂÃÂT: 33.297888,-111.989183",unknown_location
 2008,Guwahati,India
-2009,LA ÃÂ· NYC ÃÂ· CHI ÃÂ· London,unknown
+2009,LA ÃÂÃÂ· NYC ÃÂÃÂ· CHI ÃÂÃÂ· London,United Kingdom
 2010,in your crawlspace,unknown_location
 2011,"North Springfield, VA ????",United States
 2012,"Bury St Edmunds, Suffolk",United Kingdom
@@ -2093,14 +2093,14 @@
 2091,"Fort Lauderdale, Florida",United States of America
 2092,"Santa Rita, GU",Guam
 2093,USA #Resistance,United States of America
-2094,"Barcelona, EspaÃÂ±a",unknown
+2094,"Barcelona, EspaÃÂÃÂ±a",Spain
 2095,"Marbella, Spain",Spain
 2096,I'm over here.,unknown_location
 2097,"South-West Oxford, Ontario",Canada
 2098,"Happiness is not an ideal of reason, but of imagination.",unknown_location
-2099,Spain-MÃÂ©xico-Colombia,unknown
+2099,Spain-MÃÂÃÂ©xico-Colombia,
 2100,"Houston,Tx",United States
-2101,"Madrid, EspaÃÂ±a",unknown
+2101,"Madrid, EspaÃÂÃÂ±a",Spain
 2102,"Washington DC, Kabul","United States, Afghanistan"
 2103,"Zapopan, Jalisco",Mexico
 2104,"London, Europe ",United Kingdom
@@ -2123,7 +2123,7 @@
 2121,"Sonora, Mexico",Mexico
 2122,"Oak Brook, IL",United States
 2123,"Southend, England",United Kingdom
-2124,"TitirilquÃÂ©n, Chile",unknown
+2124,"TitirilquÃÂÃÂ©n, Chile",Chile
 2125,"Vijayawada, India",India
 2126,"Granada, Spain",Spain
 2127,"US, UK (York) and India","United States, United Kingdom, India"
@@ -2152,7 +2152,7 @@
 2150,over there.,unknown_location
 2151,"West Bengal, India",India
 2152,"Milton, GA",United States
-2153,"ÃÂT: 33.143271,-117.107195",unknown
+2153,"ÃÂÃÂT: 33.143271,-117.107195",unknown_location
 2154,"Magical, sparkly Fairyland",unknown_location
 2155,"Cornwall, United Kingdom",United Kingdom
 2156,Kerala,India
@@ -2274,7 +2274,7 @@
 2272,Banana Republic ,unknown_location
 2273,Tchad,Chad
 2274,bay area,unknown_location
-2275,Where IÃÂve got to be. ,unknown
+2275,Where IÃÂÃÂve got to be. ,unknown_location
 2276,Boston ,United States
 2277,"Northwest Hills, Connecticut. ",United States
 2278,Ashburton District,New Zealand
@@ -2305,7 +2305,7 @@
 2303,"San Rafael, CA",United States
 2304,Dubai/Lahore,United Arab Emirates
 2305,"Muscat, Sultanate of Oman",Oman
-2306,"ÃÂth Cliath, ÃÂire",unknown
+2306,"ÃÂÃÂth Cliath, ÃÂÃÂire",Ireland
 2307,"Brattleboro, VT",United States
 2308,Warsaw,Poland
 2309,"Ktown,NC",United States
@@ -2316,7 +2316,7 @@
 2314,"London, England, European Union",United Kingdom
 2315,"Columbia, MD 21046",United States
 2316,"East Butler, PA",United States
-2317,"ÃÂT: 38.892696,-77.044914",unknown
+2317,"ÃÂÃÂT: 38.892696,-77.044914",Unknown_location
 2318,The Resistance,unknown_location
 2319,UK - Europe,United Kingdom
 2320,Johore Bahru | Kuala Lumpur,Malaysia
@@ -2366,7 +2366,7 @@
 2364,"sydney, australia",Australia
 2365,"Somerset, Uk",United Kingdom
 2366,"Palm Bay, FL",United States of America
-2367,"ÃÂT: 44.881667,-93.312324",unknown
+2367,"ÃÂÃÂT: 44.881667,-93.312324",United States of America
 2368,North Texas,United States of America
 2369,"Auckland, NZ ",New Zealand
 2370,"DH, UK",United Kingdom
@@ -2416,7 +2416,7 @@
 2414,GIDI ,unknown_location
 2415,Western Australia,Australia
 2416,Cleveland Ohio ,United States of America
-2417,TÃÂ¼rkiye,unknown
+2417,TÃÂÃÂ¼rkiye,Türkiye
 2418,Deep in the heart of Texas,United States of America
 2419,"Downtown, San Antonio",United States of America
 2420,"Aridzona, USA",United States of America
@@ -2453,7 +2453,7 @@
 2451,Harrogate,United Kingdom
 2452,"Vaughan, Ontario",Canada
 2453,Instagram: @mrsdaphine,unknown_location
-2454,"?? SÃÂ¶??????? S???ÃÂ¿, U? ??",unknown
+2454,"?? SÃÂÃÂ¶??????? S???ÃÂÃÂ¿, U? ??",unknown
 2455,#GA06,unknown_location
 2456,"Malton, England - Gallifrey",United Kingdom
 2457,SF Bay Area/ Las Vegas,United States of America
@@ -2507,7 +2507,7 @@
 2505,Gotham ,unknown_location
 2506,VPN/proxy,unknown_location
 2507,"Mountain City, TN",United States
-2508,"ThÃÂ¼ringen, Deutschland",unknown
+2508,"ThÃÂÃÂ¼ringen, Deutschland",Germany
 2509,Ann Arbor & Saugatuck Michigan,United States
 2510,"Cincinnati, OH USA",United States
 2511,"Creemore, Ontario, Canada",Canada
@@ -2533,9 +2533,9 @@
 2531,"Kennesaw, GA",United States
 2532,"Townsville, Queensland",Australia
 2533,"Gernsbach, Germany",Germany
-2534,MÃÂ¼nchen,unknown
+2534,MÃÂÃÂ¼nchen,Germany
 2535,U.S.,United States of America
-2536,"ÃÂT: 53.839856,-0.436773",unknown
+2536,"ÃÂÃÂT: 53.839856,-0.436773",unknown_location
 2537,U.S.A ,United States of America
 2538,Bury,unknown_location
 2539,canada eh,Canada
@@ -2548,7 +2548,7 @@
 2546,Muskoka Ontario,Canada
 2547,Guildford,United Kingdom
 2548,"Essex, England.",United Kingdom
-2549,"Coslada, EspaÃÂ±a",unknown
+2549,"Coslada, EspaÃÂÃÂ±a",Spain
 2550,"Irvine,CA",United States of America
 2551,"Barton Community Centre, Headington, OX3 9LS",United Kingdom
 2552,"Rochester, MN",United States of America
@@ -2567,7 +2567,7 @@
 2565,"O'Fallon, MO",United States of America
 2566,"Sarasota, Florida",United States of America
 2567,??/ Red Ocean / Middle Earth,unknown_location
-2568,"Gaziantep, TÃÂ¼rkiye",unknown
+2568,"Gaziantep, TÃÂÃÂ¼rkiye",Türkiye
 2569,Saskatoon,Canada
 2570,"Hastings, MN",United States of America
 2571,I'm right here!!!,unknown_location
@@ -2623,7 +2623,7 @@
 2621,"Henderson, NV",United States of America
 2622,"Bath, Somerset",United Kingdom
 2623,FOLLOW US TO THE TRUTH!,unknown_location
-2624,In a hospitalÃÂs cath bag,unknown
+2624,In a hospitalÃÂÃÂs cath bag,unknown_location
 2625,Location Unknown,unknown_location
 2626,"Fargo, North Dakota",United States of America
 2627,Minneapolis-St. Paul,United States of America
@@ -2636,7 +2636,7 @@
 2634,"Cabin John, MD",United States
 2635,"Brainnnssssnerd, MN",unknown_location
 2636,North San Diego,United States
-2637,"SÃÂ£o Paulo, Brasil",unknown
+2637,"SÃÂÃÂ£o Paulo, Brasil",Brazil
 2638,"Kendal, England",United Kingdom
 2639,www.israel-commentary.org ,unknown_location
 2640,Durham / Newcastle,United Kingdom
@@ -2685,7 +2685,7 @@
 2683,"LA, California",United States of America
 2684,This Sceptred Isle,unknown_location
 2685,Nor Cal,United States of America
-2686,San FranciscoÃÂOaklandÃÂSan Jose,unknown
+2686,San FranciscoÃÂÃÂOaklandÃÂÃÂSan Jose,unknown
 2687,"42.32118,-83.374406",United States of America
 2688,Living rent free in your head,unknown_location
 2689,"Nashville, TN/ LOTOzarks, MO",United States of America
@@ -2699,7 +2699,7 @@
 2697,"Davenport, IA",United States of America
 2698,"Darwin, NT - Australia.",Australia
 2699,"Pembroke, Ontario, Canada",Canada
-2700,?stanbul BÃÂ¼yÃÂ¼k?ehir Belediyesi,unknown
+2700,?stanbul BÃÂÃÂ¼yÃÂÃÂ¼k?ehir Belediyesi,Republic of Turkey
 2701,washington,United States of America
 2702,United Kingdom Dorset,United Kingdom of Great Britain and Northern Ireland
 2703,"Maricopa County, AZ",United States of America
@@ -2707,7 +2707,7 @@
 2705,"Mount Airy, MD",United States of America
 2706,? #MAGA  ?  #ProudAmerican  ,unknown_location
 2707,Branches in OR and WA,United States of America
-2708,GÃÂ¶ttingen,unknown
+2708,GÃÂÃÂ¶ttingen,Germany
 2709,"United Kingdom, London",United Kingdom of Great Britain and Northern Ireland
 2710,"Glasgow, Scotland, Europe",United Kingdom of Great Britain and Northern Ireland
 2711,Tokyo JAPAN,Japan
@@ -2734,7 +2734,7 @@
 2732,2748,unknown_location
 2733,Sicily,Italy
 2734,Over the hill & far away UK,United Kingdom
-2735,SÃÂ£o luis-Ma,unknown
+2735,SÃÂÃÂ£o luis-Ma,unknown
 2736,"Ho Chi Minh City, Vietnam",Vietnam
 2737,Your conscience??? Liverpool,United Kingdom
 2738,Dreamland,unknown_location
@@ -2767,15 +2767,15 @@
 2765,Red Moon over a Blue Sea,unknown_location
 2766,"Lenexa, KS",United States of America
 2767,VNV Nation,unknown_location
-2768,Canada - QuÃÂ©bec,unknown
+2768,Canada - QuÃÂÃÂ©bec,Canada
 2769,Los Angeles/New York City,United States of America
 2770,"Bronx,Ny",United States of America
 2771,"N Ireland, coleraine area",United Kingdom
-2772,SalobreÃÂ±a,unknown
+2772,SalobreÃÂÃÂ±a,unknown_location
 2773,"Finland, LatAm",unknown_location
 2774,"Nineveh Plains, Iraq",Iraq
 2775,awaiting Vahalla ,unknown_location
-2776,"GrÃÂ¤storp, V. GÃÂ¶taland, Sweden",unknown
+2776,"GrÃÂÃÂ¤storp, V. GÃÂÃÂ¶taland, Sweden",Sweden
 2777,"Chorley, England",United Kingdom
 2778,West Hollywood,United States of America
 2779,"Orlando, Florida USA",United States of America
@@ -2831,7 +2831,7 @@
 2829,Sydney Australia.,Australia
 2830,"Buffalo, NY & Erie, PA",United States
 2831,"San Gabriel Valley, CA",United States
-2832,at a DunkinÃÂ near you,unknown
+2832,at a DunkinÃÂÃÂ near you,unknown_location
 2833,"Hepworth, Ontario, Canada",Canada
 2834,La France profonde,France
 2835,Cincinnati-ish,United States
@@ -2872,7 +2872,7 @@
 2870,"North Bay Village, FL",United States
 2871,"Walnut, CA",United States
 2872,"Elko, Nev.",United States
-2873,"JoanÃÂs house w/Maya,Lynn&Toni",unknown
+2873,"JoanÃÂÃÂs house w/Maya,Lynn&Toni",unknown_location
 2874,Wilds of Ohio,unknown_location
 2875,White House,United States
 2876,middletown ohio usa,United States of America
@@ -2901,12 +2901,12 @@
 2898,Swansea,United Kingdom
 2899,"Milwaukee, Wi",United States of America
 2900,"Philadelphia, PA, USA",United States of America
-2901,"Umuarama, ParanÃÂ¡, Brasil",unknown
+2901,"Umuarama, ParanÃÂÃÂ¡, Brasil",Brazil
 2902,Planet Earth???.,unknown_location
 2903,"Calexico, CA",United States of America
 2904,"Holland, MI",United States of America
 2905,Knightsbridge London SW1,United Kingdom
-2906,"ÃÂT: 40.854982,-73.968413",unknown
+2906,"ÃÂÃÂT: 40.854982,-73.968413",unknown_location
 2907,EU,unknown_location
 2908,Gateshead & Malmesbury,United Kingdom
 2909,The World's Private Detective,unknown_location
@@ -2940,7 +2940,7 @@
 2937,"Washington, DC - Maryland - VA",United States of America
 2938,Adelaide via Melbourne,Australia
 2939,Ballito KZN ,South Africa
-2940,she/her ? kingÃÂs college ldn,unknown
+2940,she/her ? kingÃÂÃÂs college ldn,unknown_location
 2941,"Yellowknife, NT",Canada
 2942,"West Orange, NJ",United States of America
 2943,"Lexis House, Farringdon Street",unknown_location
@@ -2964,7 +2964,7 @@
 2961,"Rocklin, CA 95765",United States of America
 2962,Toronto/ Boston,unknown_location
 2963,"Entebbe, Uganda ?? ",Uganda
-2964,"Bucure?ti, RomÃÂ¢nia",unknown
+2964,"Bucure?ti, RomÃÂÃÂ¢nia",Romania
 2965,Desert island. Ghosts only. ,unknown_location
 2966,?????? ?????? ?????,unknown_location
 2967,"Asaba, Nigeria",Nigeria
@@ -3010,7 +3010,7 @@
 3007,"Aurora, IN",United States
 3008,Fumo Fumo Land,unknown_location
 3009,"The Couve, USA",United States
-3010,"ÃÂT: -6.167606,106.828639",unknown
+3010,"ÃÂÃÂT: -6.167606,106.828639",Indonesia
 3011,"Atlanta, GA.",United States
 3012,"Headquarters: Dallas, TX",United States
 3013,"Schenectady, NY",United States
@@ -3018,7 +3018,7 @@
 3015,Wallstreet,unknown_location
 3016,nn x jhb?,unknown_location
 3017,Brighton & Hove - England,United Kingdom
-3018,London+Italia+MÃÂ©xico+ThePlanet,unknown
+3018,London+Italia+MÃÂÃÂ©xico+ThePlanet,unknown_location
 3019,"Uptown, Chicago",United States
 3020,"Watford, England",United Kingdom
 3021,Boulder Colorado,United States
@@ -3048,7 +3048,7 @@
 3045,"East Dulwich, London",United Kingdom of Great Britain and Northern Ireland
 3046,Doncaster,United Kingdom of Great Britain and Northern Ireland
 3047,Finding A Middle Ground Planet,unknown_location
-3048,"ÃÂT: 13.731124,100.524069",unknown
+3048,"ÃÂÃÂT: 13.731124,100.524069",unknown_location
 3049,"Leuven, Belgium",Belgium
 3050,"Los Angeles County, California",United States of America
 3051,the future (but really now),unknown_location
@@ -3097,35 +3097,35 @@
 3094,unicorn land,unknown_location
 3095,NAIROBI,Kenya
 3096,"Roanoke, VA / Gatlinburg, TN",United States
-3097,Tucson.,unknown
-3098,"East Block,B/dle Office Park",unknown
-3099,U-S-A,unknown
-3100,Happy Wanderer,unknown
-3101,"Bizerte,Bizerta-Tunisia",unknown
-3102,"Altrincham, England",unknown
-3103,"Santa Clarita, CA",unknown
-3104,"Boston, Mass. - USA",unknown
-3105,"Wayne, NJ",unknown
-3106,Coupon Country,unknown
-3107,"Petersfield, England",unknown
-3108,venus,unknown
-3109,Fort McMurray,unknown
-3110,Garden State,unknown
-3111,Texarkana AR,unknown
-3112,"Niagara Falls, NY",unknown
-3113,Where ever my Dog wants to go,unknown
+3097,Tucson.,United States
+3098,"East Block,B/dle Office Park",unknown_location
+3099,U-S-A,United States
+3100,Happy Wanderer,unknown_location
+3101,"Bizerte,Bizerta-Tunisia",Tunisia
+3102,"Altrincham, England",United Kingdom
+3103,"Santa Clarita, CA",United States
+3104,"Boston, Mass. - USA",United States
+3105,"Wayne, NJ",United States
+3106,Coupon Country,unknown_location
+3107,"Petersfield, England",United Kingdom
+3108,venus,unknown_location
+3109,Fort McMurray,Canada
+3110,Garden State,United States
+3111,Texarkana AR,United States
+3112,"Niagara Falls, NY",United States
+3113,Where ever my Dog wants to go,unknown_location
 3114,"Huntington, WV",United States of America
-3115,"Aurora, ON CANADA",unknown
-3116,Atlantis,unknown
-3117,"Westport, CT / New York, NY",unknown
+3115,"Aurora, ON CANADA",Canada
+3116,Atlantis,unknown_location
+3117,"Westport, CT / New York, NY",United States
 3118,The North,unknown_location
-3119,House Arrest 2020,unknown
-3120,"Leigh, England",unknown
-3121,In the forest looking 4 trees,unknown
-3122,"ÃÂT: 50.415269,-105.601237",unknown
-3123,ÃÂ¯\_(?)_/ÃÂ¯,unknown
-3124,"Bangalore, Mumbai, Delhi",unknown
-3125,"Helsingborg, SkÃÂ¥ne Sweden",unknown
+3119,House Arrest 2020,unknown_location
+3120,"Leigh, England",United Kingdom
+3121,In the forest looking 4 trees,unknown_location
+3122,"ÃÂÃÂT: 50.415269,-105.601237",unknown_location
+3123,ÃÂÃÂ¯\_(?)_/ÃÂÃÂ¯,unknown
+3124,"Bangalore, Mumbai, Delhi",India
+3125,"Helsingborg, SkÃÂÃÂ¥ne Sweden",Sweden
 3126,Down the Rabbit hole,unknown_location
 3127,mainly by the sea,unknown_location
 3128,Fugawi,unknown_location
@@ -3146,7 +3146,7 @@
 3143,St.Helens,unknown_location
 3144,"Arkansas, high ground #MAGA",United States
 3145,"Woking, UK",United Kingdom
-3146,Great Barr ,unknown
+3146,Great Barr ,United Kingdom
 3147,"Addison, TX",United States
 3148,The Globe,unknown_location
 3149,"TORONTO, LAS VEGAS",unknown_location
@@ -3174,7 +3174,7 @@
 3171,NorthWest USA,United States
 3172,"Solo, INDONESIA",Indonesia
 3173,"Chatham, MA",United States
-3174," 2105 Bridge City, Texas 77611",unknown
+3174," 2105 Bridge City, Texas 77611",United States of America
 3175,"Metro-Washington, DC",United States
 3176,Cumbria & South West Scotland,United Kingdom
 3177,Korner Kasi and Harvard.,unknown_location
@@ -3184,7 +3184,7 @@
 3181,Pardesi,unknown_location
 3182,Westmeath,Ireland
 3183,Metropolitan Detroit,United States of America
-3184,MalmÃÂ¶,unknown
+3184,MalmÃÂÃÂ¶,unknown_location
 3185,"Thiruvananthapuram, Kerala",India
 3186,"Tours, France",France
 3187,"Hampton, VA",United States of America
@@ -3199,7 +3199,7 @@
 3196,NJ & CT,United States of America
 3197,Wirral,United Kingdom
 3198,On One of 7 hills in Sheffield,United Kingdom
-3199,East Lothian Scotland ,unknown
+3199,East Lothian Scotland ,United Kingdom
 3200,"Siesta Key, FL",United States of America
 3201,"Owerri, Nigeria",Nigeria
 3202,"Launceston, Australia",Australia
@@ -3208,7 +3208,7 @@
 3205,"Belton, England",United Kingdom
 3206,"Varmull, the paradise on earth",unknown_location
 3207,"West Side, 6 Mile, MI",United States of America
-3208,Show Me State ,unknown
+3208,Show Me State ,United States
 3209,"Dallas, Texas USA",United States of America
 3210,"Anacostia, DC",United States of America
 3211,out at sea ????,unknown_location
@@ -3216,13 +3216,13 @@
 3213,The Great Lakes State??,United States of America
 3214,"West Side, Chicago",United States of America
 3215,"Ashford, England",United Kingdom
-3216,"Atlanta, GA ",unknown
+3216,"Atlanta, GA ",United States
 3217,wish i knew haha,unknown_location
 3218,"Delhi,India",India
 3219,"Brent, London",United Kingdom
 3220,"Des Peres, MO",United States of America
 3221,South East England,United Kingdom
-3222, ADHS 67 Algonquin Civil 70,unknown
+3222, ADHS 67 Algonquin Civil 70,unknown_location
 3223,Incubois Unite,unknown_location
 3224,"Mount Faber ?, Singapore ??",Singapore
 3225,"Brighton, CO",United States of America
@@ -3236,34 +3236,34 @@
 3233,Albuquerque NM,United States of America
 3234,"Palos Verdes Estates, CA 90274",United States of America
 3235,"Makerere UNiversity, Kampala",Uganda
-3236,"Dalston, London, UK. ",unknown
+3236,"Dalston, London, UK. ",United Kingdom
 3237,"Granby, Colorado",United States of America
-3238,In my bed ,unknown
+3238,In my bed ,unknown_location
 3239,paname,unknown_location
 3240,"Castle Point, UK",United Kingdom
 3241,I try to be politics free but will comment on Trump/GOP policy as the news is dominating tape.,unknown_location
-3242,"Huntington, WV ",unknown
+3242,"Huntington, WV ",United States of America
 3243,Thalassery Kerala,India
 3244,"Lawrence, MA",United States of America
 3245,Beautiful Muskoka,Canada
 3246,"Saint John, New Brunswick",Canada
-3247,New Orleans ,unknown
+3247,New Orleans ,United States of America
 3248,"Trail, British Columbia",Canada
 3249,K ??,unknown_location
-3250,Where the drama is. ,unknown
+3250,Where the drama is. ,unknown_location
 3251,New Jersey Shore,United States of America
 3252,Uk,United Kingdom
 3253,Canada - Toronto - UWO,Canada
 3254,"Tickhill, England",United Kingdom
 3255,"New Bedford, MA",United States of America
-3256,Uranus ,unknown
+3256,Uranus ,unknown_location
 3257,Global citizen,unknown_location
 3258,Madrid,Spain
 3259,"Madison, WI & Washington, DC",United States of America
 3260,South Carolina ? Alabama,United States of America
 3261,"Malibu, California",United States of America
 3262,East Midlands,United Kingdom
-3263,Oklahoma ,unknown
+3263,Oklahoma ,United States of America
 3264,Hampshire and Beyond,United Kingdom
 3265,disrespected piscataway lands,unknown_location
 3266,"Seoul, South Korea",South Korea
@@ -3274,7 +3274,7 @@
 3271,Tavarnuzze,Italy
 3272,On the train,unknown_location
 3273,"Midwest, U.S.",United States of America
-3274,America ,unknown
+3274,America ,United States of America
 3275,Missouri and Illinois,United States of America
 3276,South Yorkshire,United Kingdom
 3277,Scottsdale ?? La,unknown_location
@@ -3296,7 +3296,7 @@
 3293,"Caracas, Venezuela ",Venezuela
 3294,Nottingham ,United Kingdom
 3295,"North Charleston, SC",United States of America
-3296,"ÃÂT: 28.508488,-81.469986",unknown
+3296,"ÃÂÃÂT: 28.508488,-81.469986",unknown_location
 3297,"TORONTO, ONTARIO",Canada
 3298,"Fort Worth, Texas USA",United States of America
 3299,Kennington #SE11,United Kingdom
@@ -3305,7 +3305,7 @@
 3302,Baguio City,Philippines
 3303,Seaside ,unknown_location
 3304,I'm always home. I'm uncool.,unknown_location
-3305,ÃÂ¯? ???????'? ?????????,unknown
+3305,ÃÂÃÂ¯? ???????'? ?????????,unknown_location
 3306,Dublin City Centre,Ireland
 3307,"Remainshire, UK",unknown_location
 3308,"Bergen op Zoom, Nederland",Netherlands
@@ -3318,7 +3318,7 @@
 3315,?? ?? ??,unknown_location
 3316,"Skipton, England",United Kingdom
 3317,"Nazareth, Pa USA",United States of America
-3318,CinderellaÃÂs Castle,unknown
+3318,CinderellaÃÂÃÂs Castle,unknown_location
 3319,"San Antonio, Ibiza",Spain
 3320,macbebekin.wordpress.com,unknown_location
 3321,"SF Bay Area, CA",United States of America
@@ -3346,17 +3346,17 @@
 3343,Your Mind #LushThoughts,unknown_location
 3344,Madawaska Valley ,Canada
 3345,lower penn ,unknown_location
-3346,"61ÃÂ°16'41.0""N 73ÃÂ°39'40.0""W",unknown
+3346,"61ÃÂÃÂ°16'41.0""N 73ÃÂÃÂ°39'40.0""W",unknown_location
 3347,"Hell, MI",United States of America
 3348,"Guernsey, Channel Islands",Bailiwick of Guernsey
 3349,"Woodlawn, Chicago",United States of America
-3350,"ÃÂT: 51.560275,-0.00859",unknown
+3350,"ÃÂÃÂT: 51.560275,-0.00859",unknown_location
 3351,Gujarat 387350,Republic of India
 3352,"97N 10th Street, Brooklyn - NY",United States of America
 3353,New York ,United States of America
 3354,"Orange County, CA.",United States of America
 3355,"New York, USA ",United States of America
-3356,"ÃÂT: 42.085603,-76.828764",unknown
+3356,"ÃÂÃÂT: 42.085603,-76.828764",unknown_location
 3357,the cereal aisle,unknown_location
 3358,FAO IN Uganda,Uganda
 3359,"Minneapolis, Minnesota, USA",United States of America
@@ -3380,7 +3380,7 @@
 3377,NYC Area & Shiraz Iran,
 3378,A swimming pool,unknown_location
 3379,Ur guess is as good as mine,unknown_location
-3380,Benito JuÃÂ¡rez,unknown
+3380,Benito JuÃÂÃÂ¡rez,Mexico
 3381,Moscou - Paris - Forez,unknown_location
 3382,"Sydney, Australia ",Australia
 3383,"Rockford, IL",United States of America
@@ -3484,7 +3484,7 @@
 3481,"Brookings, OR",United States
 3482,"Kolkata, West Bengal",India
 3483,"Waiouru, New Zealand",New Zealand
-3484,"TahitÃÂ³tfalu, MagyarorszÃÂ¡g",unknown
+3484,"TahitÃÂÃÂ³tfalu, MagyarorszÃÂÃÂ¡g",Hungary
 3485,Earth Citizen,unknown_location
 3486,Boston and Kathmandu,unknown_location
 3487,"Jamshedpur, India",India
@@ -3538,7 +3538,7 @@
 3535,England UK,United Kingdom
 3536,BENGALURU,India
 3537,"Bicester, England",United Kingdom
-3538,"ÃÂT: 34.043526,-118.363393",unknown
+3538,"ÃÂÃÂT: 34.043526,-118.363393",unknown_location
 3539,2x as far from middle to there,unknown_location
 3540,South East London,United Kingdom
 3541,Hampshire UK,United Kingdom
@@ -3548,7 +3548,7 @@
 3545,"Sao Paulo, Brazil",Brazil
 3546,Barbados...,Barbados
 3547,1 AU far away from the sun,unknown_location
-3548,"BogotÃÂ¡, Cundinamarca, Colombia",unknown
+3548,"BogotÃÂÃÂ¡, Cundinamarca, Colombia",Republic of Colombia
 3549,PA 14th,unknown_location
 3550,Coastal Spain,Spain
 3551,?? ????? ?,unknown_location
@@ -3598,7 +3598,7 @@
 3595,Far East,unknown_location
 3596,"Crystal Lake, IL",United States of America
 3597,London - Leeds - Amsterdam - Paris - San Diego,unknown_location
-3598,"ÃÂT: 42.769859,-71.440438",unknown
+3598,"ÃÂÃÂT: 42.769859,-71.440438",United States of America
 3599,Brighton & Hove,United Kingdom
 3600,Occupied Cowlitz Lands,unknown_location
 3601,Gloucester NSW,Australia
@@ -3610,7 +3610,7 @@
 3607,"Harpenden, UK ??",United Kingdom
 3608,"Benghazi, Cyrenaica, Libya",Libya
 3609,"Springfield, MO",United States of America
-3610,Canada ÃÂ USA ÃÂ UK,unknown
+3610,Canada ÃÂÃÂ USA ÃÂÃÂ UK,United Kingdom
 3611,"Methuen Town, MA",United States of America
 3612,"Droitwich, England",United Kingdom
 3613,"Newport Beach, CA",United States of America
@@ -3623,7 +3623,7 @@
 3620,"Phaltan, Maharashtra",India
 3621,"Bagshot, South East",United Kingdom
 3622,Colorado Springs,United States of America
-3623,"Arenys de Mar, PaÃÂ¯sos Catalans",unknown
+3623,"Arenys de Mar, PaÃÂÃÂ¯sos Catalans",unknown_location
 3624,East Bumblefuck,unknown_location
 3625,Delaware,United States of America
 3626,Shithole of Europe UnUK  ,unknown_location
@@ -3680,7 +3680,7 @@
 3677,"Chapel Hill, NC, USA",United States of America
 3678,Joburg and wherever life takes,unknown_location
 3679,Dar es Salaam,Tanzania
-3680,"ETH ZÃÂ¼rich, Switzerland",unknown
+3680,"ETH ZÃÂÃÂ¼rich, Switzerland",Switzerland
 3681,City Hall 121 N LaSalle Rm 805,unknown_location
 3682,"Warrington, UK",United Kingdom
 3683,"Lynchburg, VA",United States of America
@@ -3704,7 +3704,7 @@
 3701,Dorset,United Kingdom
 3702,"Sudbury, Ontario",Canada
 3703,"Cedar Rapids, Iowa",United States of America
-3704,"ÃÂT: 50.877689,-1.364615",unknown
+3704,"ÃÂÃÂT: 50.877689,-1.364615",unknown_location
 3705,"Sheboygan, WI",United States of America
 3706,"Oulton, Leeds",United Kingdom
 3707,"Arden Hills, MN ",United States of America
@@ -3767,7 +3767,7 @@
 3764,AFRIICA,unknown_location
 3765,"London, England??Daydreamer",United Kingdom
 3766,Winter is overrated. ?,unknown_location
-3767,Rabat - SalÃÂ© - Zemmour - ZaÃÂ«r,unknown
+3767,Rabat - SalÃÂÃÂ© - Zemmour - ZaÃÂÃÂ«r,Morocco
 3768,"Hale, England",United Kingdom
 3769,"Manchester, United Kingdom",United Kingdom
 3770,"Malibu, CA",United States
@@ -3885,7 +3885,7 @@
 3882,"3353 Yonge Street, Toronto",Canada
 3883,Mid Ohio Valley,United States of America
 3884,"St. Pete, FL",United States of America
-3885,"MontrÃÂ©al, Canada",unknown
+3885,"MontrÃÂÃÂ©al, Canada",Canada
 3886,"Napa, Calif.",United States of America
 3887,uk - edinburgh/newcastle,United Kingdom
 3888,"Alaska, USA",United States of America
@@ -4087,7 +4087,7 @@
 4084,"Manassas, VA",United States of America
 4085,Brampton Ontario Canada,Canada
 4086,"Perth, WA / 50490, KL",unknown_location
-4087,"DÃÂ¼sseldorf, Germany",unknown
+4087,"DÃÂÃÂ¼sseldorf, Germany",Germany
 4088,"Strathmore, Alberta",Canada
 4089,San Francisco Bay Area ,United States of America
 4090,DC / Mid-Ohio Valley,unknown_location
@@ -4121,7 +4121,7 @@
 4118,"Institute, WV",United States of America
 4119,Van Nuys California,United States of America
 4120,"East London, South Africa",South Africa
-4121,"ÃÂT: 51.56353,-0.08759",unknown
+4121,"ÃÂÃÂT: 51.56353,-0.08759",United Kingdom
 4122,"Northern Ireland, United Kingdom",United Kingdom
 4123,"Dallas, Texas, USA",United States of America
 4124,Somewhere In America ?,United States of America
@@ -4150,14 +4150,14 @@
 4147,Wakanda,unknown_location
 4148,"Malmo, Sweden",Sweden
 4149,"Rickmansworth, East",United Kingdom
-4150,"ÃÂT: 41.53569,-74.098536",unknown
+4150,"ÃÂÃÂT: 41.53569,-74.098536",United States
 4151,sweden,Sweden
 4152,"Brampton, Ontario",Canada
 4153,"iPhone: 26.020256,-80.143211",unknown_location
 4154,West Coast Of Canada,Canada
 4155,"UK, Basel CH",United Kingdom
 4156,"Whittier, CA",United States of America
-4157,"Brugge, BelgiÃÂ«",unknown
+4157,"Brugge, BelgiÃÂÃÂ«",Belgium
 4158,Burnham On Crouch Essex,United Kingdom
 4159,"Milton Keynes, UK",United Kingdom
 4160,World ,unknown_location
@@ -4265,7 +4265,7 @@
 4262,NY fucking City,United States of America
 4263,"Caer y Cofis, Cymru",United Kingdom
 4264,"Brenham, TX",United States of America
-4265,"ÃÂT: 51.4761159,-2.5612165",unknown
+4265,"ÃÂÃÂT: 51.4761159,-2.5612165",United Kingdom
 4266,nashik,India
 4267,Pangaea,unknown_location
 4268,"Nabunturan, Davao Region",Philippines
@@ -4277,7 +4277,7 @@
 4274,All tweets are my own,unknown_location
 4275,"D/FW, TX ",United States of America
 4276,one Earth one human,unknown_location
-4277,"Malung-SÃÂ¤len, Sverige",unknown
+4277,"Malung-SÃÂÃÂ¤len, Sverige",Sweden
 4278,Sanremo-Milano,Italy
 4279,"Quetta, Pakistan",Pakistan
 4280,"Adams Center, NY",United States of America
@@ -4360,7 +4360,7 @@
 4357,"North Palm Beach, FL",United States of America
 4358,Chicago and the World!,unknown_location
 4359,out of this world ,unknown_location
-4360,"MÃÂ¡laga, EspaÃÂ±a",unknown
+4360,"MÃÂÃÂ¡laga, EspaÃÂÃÂ±a",Spain
 4361,Madang,Papua New Guinea
 4362,"Tungan-Mai-Igwai, Nigeria.",Nigeria
 4363,"Hammersmith, London",United Kingdom
@@ -4368,7 +4368,7 @@
 4365,"Moray , Scotland",United Kingdom
 4366,Coronaleuropa,unknown_location
 4367,Texas yall,United States of America
-4368,ÃÂ  l'ÃÂ©chelle mondiale,unknown
+4368,ÃÂÃÂ  l'ÃÂÃÂ©chelle mondiale,unknown_location
 4369,Singapore ,Singapore
 4370,washington dc,United States of America
 4371,In the Truth,unknown_location
@@ -4387,10 +4387,10 @@
 4384,"Texas. Yes, Texas ?",United States of America
 4385,?Space Galaxy ?,unknown_location
 4386,New Delhi - Bombay ,India
-4387,Bucharest - London - MÃÂ©xico,unknown
+4387,Bucharest - London - MÃÂÃÂ©xico,Mexico
 4388,"Olympia, WA",United States of America
-4389,"Toronto, CanadÃÂ¡",unknown
-4390,USAÃÂEuropa,unknown
+4389,"Toronto, CanadÃÂÃÂ¡",Canada
+4390,USAÃÂÃÂEuropa,unknown_location
 4391,???NN??.....?N???,unknown_location
 4392,"Longford, Ireland",Ireland
 4393,Being a CEO,unknown_location
@@ -4421,7 +4421,7 @@
 4418,Washington D.C,United States of America
 4419,Abenaki land,unknown_location
 4420,Driver 2.6 Mil mi in 47 States,unknown_location
-4421,Por ahÃÂ­ en algÃÂºn lugar,unknown
+4421,Por ahÃÂÃÂ­ en algÃÂÃÂºn lugar,unknown_location
 4422,Cryptowood Forest,unknown_location
 4423,South Armagh,United Kingdom
 4424,northeast US,United States
@@ -4444,7 +4444,7 @@
 4441,"Okinawa-shi, Okinawa",Japan
 4442,"Pointe-Noire, Congo",Republic of the Congo
 4443,Seychelles,Seychelles
-4444,"ÃÂT: 26.121902,-80.145313",unknown
+4444,"ÃÂÃÂT: 26.121902,-80.145313",United States of America
 4445,"Cresskill, NJ",United States
 4446,"Bethlehem, PA ",United States of America
 4447,"Greenfield, Saddleworth",United Kingdom
@@ -4483,10 +4483,10 @@
 4480,"Cleveland, TN",United States of America
 4481,Honduras,Honduras
 4482,"Jonesboro, GA",United States of America
-4483,Following the White Rabbit ,unknown
+4483,Following the White Rabbit ,unknown_location
 4484,"Gloucester, New South Wales",Australia
 4485,"Rehoboth Beach, De",United States of America
-4486,St Helens ,unknown
+4486,St Helens ,unknown_location
 4487,"Kilmarnock, Scotland",United Kingdom
 4488,Retweets=FYI,unknown_location
 4489,"Machakos, KENYA.",Kenya
@@ -4561,10 +4561,10 @@
 4558,Coimbatore,India
 4559,"Diss, Norfolk",United Kingdom
 4560,Colonia,unknown_location
-4561,Basket Of Deplorables ,unknown
+4561,Basket Of Deplorables ,unknown_location
 4562,"Tsukuba-shi, Ibaraki",Japan
-4563,Somewhere being impressive ,unknown
-4564,Didsbury of course ,unknown
+4563,Somewhere being impressive ,unknown_location
+4564,Didsbury of course ,unknown_location
 4565,POA/Gold Coast/Sydney,Australia
 4566,la vie en rose,unknown_location
 4567,gibraltar,Gibraltar
@@ -4572,11 +4572,11 @@
 4569,Indiana State University,United States of America
 4570,"Fort Lauderdale, FL U.S.A.",United States of America
 4571,"Middle of Nowhere, USA",unknown_location
-4572,"Johannesburg,Soweto,Orlando ",unknown
+4572,"Johannesburg,Soweto,Orlando ",South Africa
 4573,Zummerzet,unknown_location
 4574,Wadi el-Yawant.,unknown_location
-4575,My 2nd account: Ask me ,unknown
-4576,portland ,unknown
+4575,My 2nd account: Ask me ,unknown_location
+4576,portland ,United States of America
 4577,Argadahana,unknown_location
 4578,"65 Maple Ave Florida, NY 10921",United States of America
 4579,SW Florida,United States of America
@@ -4589,7 +4589,7 @@
 4586,India ????,India
 4587,Mumbai - India,India
 4588,"City of Demons, CA",unknown_location
-4589,"ÃÂT: 59.19408,17.620422",unknown
+4589,"ÃÂÃÂT: 59.19408,17.620422",unknown_location
 4590,"DYT, OH-IO",unknown_location
 4591,"Washington DC, USA | London, UK",United States of America
 4592,"Manassas, VA - USA",United States of America
@@ -4621,7 +4621,7 @@
 4618,"Boston, England",United Kingdom
 4619,"Mumbra, Navi Mumbai",India
 4620,"San Diego, CA USA",United States of America
-4621,? ? ??????? ÃÂ°? . . ÃÂ°? ?. ?,unknown
+4621,? ? ??????? ÃÂÃÂ°? . . ÃÂÃÂ°? ?. ?,unknown_location
 4622,"??? ????????? ?????? 1, ???? ????, ????????? ??????",unknown_location
 4623,"Plymouth Township, MI",United States of America
 4624,Beyond Borders,unknown_location
@@ -4639,7 +4639,7 @@
 4636,Mechanicsburg,United States of America
 4637,Bangalore and New Delhi,India
 4638,Ayr,United Kingdom
-4639,Possibly in SchrÃÂ¶dinger's Box,unknown
+4639,Possibly in SchrÃÂÃÂ¶dinger's Box,unknown_location
 4640,"From 1997, in Northern California, born in Louisiana but raised in Europe (dad in the oil biz) lived in 17 countries by time I was seventeen",unknown_location
 4641,Dubai U.A.E.,United Arab Emirates
 4642,"Plainview, TX",United States of America
@@ -4651,7 +4651,7 @@
 4648,San Francisco Bay area ,United States of America
 4649,"Rochester, Minnesota",United States of America
 4650,I stay at home! ,unknown_location
-4651,Sunshine Coast BC/ ShÃÂ­shÃÂ¡lh ,unknown
+4651,Sunshine Coast BC/ ShÃÂÃÂ­shÃÂÃÂ¡lh ,Canada
 4652,The 6ix,Canada
 4653,"New Delhi,INDIA",India
 4654,"Midwest, USA",United States of America
@@ -4698,7 +4698,7 @@
 4695,upstate NY,United States of America
 4696,Statewide- Texas,United States of America
 4697,"Duluth, Minnesota",United States of America
-4698,"Complexo do AlemÃÂ£o, RJ -Brazil",unknown
+4698,"Complexo do AlemÃÂÃÂ£o, RJ -Brazil",unknown
 4699,Ruth,unknown_location
 4700,"Fort Smith - Fayetteville, AR",United States of America
 4701,NY/TX,unknown_location
@@ -4711,7 +4711,7 @@
 4708,Cobourg House Mayflower Street,unknown_location
 4709,Springfield Virginia,United States of America
 4710,"Hampshire, UK",United Kingdom
-4711,"ÃÂT: 33.821324,-84.360438",unknown
+4711,"ÃÂÃÂT: 33.821324,-84.360438",unknown_location
 4712,"NY, SF, LA, DC, Boston, Chicago, Detroit, Nashville, Florida, Portland, Germany, Hong Kong, Jerusalem, London, Paris, Shanghai and Singapore",unknown_location
 4713,"Hampshire and Surrey, England",United Kingdom
 4714,South Dakota ,United States of America
@@ -4816,7 +4816,7 @@
 4813,INSTAGRAM: HTIPU,unknown_location
 4814,"Columbus, Ohio & Westerville, OH",United States of America
 4815,Follow Dance Studio & Arts,unknown_location
-4816,"ÃÂT: -1.33045,36.9257",unknown
+4816,"ÃÂÃÂT: -1.33045,36.9257",unknown_location
 4817,Phoenix Arizona,United States of America
 4818,dsostek@publicopinionnews.com,unknown_location
 4819,Unceded Coast Salish Territory (aka Pitt Meadows),Canada
@@ -4882,7 +4882,7 @@
 4879,Pune (INDIA),India
 4880,"Garden City, MI",United States
 4881,"Live, Love b a voice 4 change",unknown_location
-4882, Pleiades & SantaFe,unknown
+4882, Pleiades & SantaFe,unknown_location
 4883,"Saratoga Springs, NY",United States
 4884,"Newbury, Berkshire",United Kingdom
 4885,"Folsom, California",United States
@@ -4892,7 +4892,7 @@
 4889,"Spring Hill, TN",United States
 4890,Morris County NJ,United States
 4891,Ontario CANADA,Canada
-4892,DÃÂ¼sseldorf,unknown
+4892,DÃÂÃÂ¼sseldorf,Germany
 4893,I-40 West,unknown_location
 4894,"Zeeland, MI",United States
 4895,"Edinburgh, UK",United Kingdom
@@ -4902,7 +4902,7 @@
 4899,salem OR,United States
 4900,Room 1408,unknown_location
 4901,Greece/Canada,unknown_location
-4902,Norway TromsÃÂ¸,unknown
+4902,Norway TromsÃÂÃÂ¸,Norway
 4903,"North Metro, Twin Cities MN",United States
 4904,"Edgewater, Chicago",United States
 4905,"Woodbridge, VA",United States
@@ -4939,7 +4939,7 @@
 4936,Walktrip : SINGKOWTS,unknown_location
 4937,Near Food,unknown_location
 4938,Through the looking-glass,unknown_location
-4939,Don't BeLoNgS to this ÃÂra,unknown
+4939,Don't BeLoNgS to this ÃÂÃÂra,unknown_location
 4940,Thane,India
 4941,Earth!,unknown_location
 4942,"Madeira beach, fla",United States of America
@@ -5041,7 +5041,7 @@
 5038,London/Rome,United Kingdom
 5039,"Albany, NY USA",United States of America
 5040,"Northern Rivers Region, NSW",Australia
-5041,"Cdmx, MÃÂ©xico",unknown
+5041,"Cdmx, MÃÂÃÂ©xico",Mexico
 5042,UK & Spain,United Kingdom
 5043,"Fairfield, CA",United States of America
 5044,"pls, be ok and get well soon",unknown_location
@@ -5062,8 +5062,8 @@
 5059,From Parts Unkown,unknown_location
 5060,Dark side of the Moon,unknown_location
 5061,Earth. ,unknown_location
-5062,Phil HayÃÂs basement,unknown
-5063,"ÃÂT: 38.911326,-77.04508",unknown
+5062,Phil HayÃÂÃÂs basement,unknown_location
+5063,"ÃÂÃÂT: 38.911326,-77.04508",unknown
 5064,New Zealand (most of the time),New Zealand
 5065,Hipperholme,United Kingdom
 5066,"Newcastle-under-Lyme, England",United Kingdom
@@ -5088,8 +5088,8 @@
 5085,"Lady Lake, FL",United States of America
 5086,"Glendora, Ca",United States of America
 5087,DFW & St. Louis (Kirkwood),United States of America
-5088,At your daddyÃÂs house ,unknown
-5089,4 miles past BÃÂªte noire,unknown
+5088,At your daddyÃÂÃÂs house ,unknown_location
+5089,4 miles past BÃÂÃÂªte noire,unknown_location
 5090,Varying locations,unknown_location
 5091,"Aberdare,  South Wales",United Kingdom
 5092,"53.535491,-2.119378",unknown_location
@@ -5126,14 +5126,14 @@
 5123,County Durham. U.K ,United Kingdom
 5124,"Cambridgeshire, England",United Kingdom
 5125,"Rangia, Assam, India",India
-5126,Vancouver Verified Account ÃÂ®,unknown
+5126,Vancouver Verified Account ÃÂÃÂ®,Canada
 5127,The University of Melbourne,Australia
 5128,Bailiwick of Guernsey,Guernsey
 5129,Bs paas me hi !!!,unknown_location
 5130,"Kericho,kenya",Kenya
 5131,"Waterloo, NY",United States
 5132,"A bunker, Underground?",unknown_location
-5133,KÃÂ¶ln,unknown
+5133,KÃÂÃÂ¶ln,unknown_location
 5134,"Jaipur, Rajasthan",India
 5135,in your dreams ,unknown_location
 5136,she/her ? England,United Kingdom
@@ -5178,7 +5178,7 @@
 5175,Toronto area,Canada
 5176,REWA,unknown_location
 5177,"Flixton M41 6HS, UK",United Kingdom
-5178, india,unknown
+5178, india,India
 5179,"1769 Glendale Blvd, Los Angeles",United States of America
 5180,"Iganga, Uganda.",Uganda
 5181,Stop tryna find me ,unknown_location
@@ -5189,7 +5189,7 @@
 5186,"Van Nuys, California",United States of America
 5187,WDC,United States of America
 5188,"New Bern, NC",United States of America
-5189,Click Link ÃÂ ,unknown
+5189,Click Link ÃÂÃÂ ,unknown_location
 5190,"Crossing Republic, Ghaziabad",India
 5191,HQ:Golden CO USA Events:Global,United States of America
 5192,"Ellensburg, WA",United States of America
@@ -5209,7 +5209,7 @@
 5206,"Nairobi, Kenya.",Kenya
 5207,"Titan, Saturn",unknown_location
 5208,swansea,United Kingdom
-5209,"ÃÂT: 32.810412,-117.004575",unknown
+5209,"ÃÂÃÂT: 32.810412,-117.004575",United States of America
 5210,"India, USA",unknown_location
 5211,Twilight Zone aka America ?,unknown_location
 5212,El Dorado,unknown_location
@@ -5278,7 +5278,7 @@
 5275,London and Aberdeen,United Kingdom
 5276,"Surrey, Delta, White Rock: BC",Canada
 5277,Vancouver | Toronto,Canada
-5278,No ManÃÂs Land,unknown
+5278,No ManÃÂÃÂs Land,unknown_location
 5279,Sheffield/Leeds,United Kingdom
 5280,"Bradley Beach, NJ",United States of America
 5281,???? ?????? ????? 9935943398,unknown_location
@@ -5298,7 +5298,7 @@
 5295,DMV ?? DFW,unknown_location
 5296,"South Shields, England",United Kingdom
 5297,"Madeira Beach, FL",United States of America
-5298,BNE ÃÂ AUS,unknown
+5298,BNE ÃÂÃÂ AUS,unknown_location
 5299,"Plumsteadville, PA",United States of America
 5300,BOS | SF | Raleigh | DC | LDN,United States of America
 5301,Lancaster,United Kingdom
@@ -5364,7 +5364,7 @@
 5361,untraceable ,unknown_location
 5362,"Wrentham, MA",United States of America
 5363,https://clickclickclick.click/,unknown_location
-5364,"Aarschot, BelgiÃÂ«",unknown
+5364,"Aarschot, BelgiÃÂÃÂ«",Belgium
 5365,Cambridge (2 metres separate),unknown_location
 5366,"Frankston, Melbourne",Australia
 5367,"iPhone: 37.845755,-122.289805",unknown_location
@@ -5406,7 +5406,7 @@
 5403,Bury St Edmunds,United Kingdom
 5404,"Welling, LB Bexley",United Kingdom
 5405,I live in a city.,unknown_location
-5406,"Port-au-Prince, HaÃÂ¯ti",unknown
+5406,"Port-au-Prince, HaÃÂÃÂ¯ti",Haiti
 5407,Ottawa ??,Canada
 5408,"Haymarket, VA",United States of America
 5409,"Silsden, West Yorks, UK",United Kingdom
@@ -5487,7 +5487,7 @@
 5484,Earth / Tierra ,unknown_location
 5485,"Bedford, Bedfordshire, Uk,",United Kingdom
 5486,"North West, USA",United States of America
-5487,Hablamos EspaÃÂ±ol,unknown
+5487,Hablamos EspaÃÂÃÂ±ol,unknown_location
 5488,Stavropol.Russia,Russia
 5489,Zummerzet uk,United Kingdom
 5490,National Office - Canberra,Australia
@@ -5563,7 +5563,7 @@
 5560,Islamabad ??,Pakistan
 5561,Just a twinkle in your eyes.,unknown_location
 5562,"Kedah, Malaysia",Malaysia
-5563,nashville ÃÂ he/him,unknown
+5563,nashville ÃÂÃÂ he/him,unknown_location
 5564,Exec. Offices  Wyomissing Pa,United States
 5565,Ankara TURKEY,Turkey
 5566,"Yorkville, Manhattan",United States
@@ -5635,7 +5635,7 @@
 5632,"????? ????, ???????",unknown_location
 5633,Living on Ramindjeri land,unknown_location
 5634,United States HQ,United States of America
-5635,"Diksmuide, BelgiÃÂ«",unknown
+5635,"Diksmuide, BelgiÃÂÃÂ«",Belgium
 5636,Chesapeake region,United States of America
 5637,????? Hanuuru,unknown_location
 5638,"Novi, MI",United States of America
@@ -5647,7 +5647,7 @@
 5644,island margarita ,unknown_location
 5645,Cinema,unknown_location
 5646,"Westport, CT & NYC",United States of America
-5647,"Gent, BelgiÃÂ«",unknown
+5647,"Gent, BelgiÃÂÃÂ«",unknown_location
 5648,"Boston, Massachusetts USA",United States of America
 5649,Manchester and Kendal,United Kingdom
 5650,Don't lewd alita please,unknown_location
@@ -5676,7 +5676,7 @@
 5673,Castle Donington,United Kingdom
 5674,"Knowsley Road, Bootle.",United Kingdom
 5675,London -UK,United Kingdom
-5676,MontrÃÂ©al QC,unknown
+5676,MontrÃÂÃÂ©al QC,Canada
 5677,Warwick,United Kingdom
 5678,Las Vegas - Phoenix- Utah,United States
 5679,Once Great Southern Land,unknown_location
@@ -5696,7 +5696,7 @@
 5693,Nantes,France
 5694,Proud Jamaican,Jamaica
 5695,"Los Angeles and Washington, DC",United States
-5696,"SjÃÂ¦lland, Danmark",unknown
+5696,"SjÃÂÃÂ¦lland, Danmark",Denmark
 5697,none,unknown_location
 5698,East Lothian,United Kingdom
 5699,Hyrule,unknown_location
@@ -5712,8 +5712,8 @@
 5709,"Aschheim, Deutschland",Germany
 5710,Houston Texas USA,United States
 5711,"Maine, United States",United States
-5712,U.S. ÃÂ· Canada ÃÂ· U.K. ÃÂ· Ireland,unknown
-5713,"Sopelana, EspaÃÂ±a",unknown
+5712,U.S. ÃÂÃÂ· Canada ÃÂÃÂ· U.K. ÃÂÃÂ· Ireland,Ireland
+5713,"Sopelana, EspaÃÂÃÂ±a",Spain
 5714,Upper Cumbukta West,unknown_location
 5715,Tucson,United States
 5716,"??????, Gurgaon, ??????",India
@@ -5756,7 +5756,7 @@
 5753,"Trivandrum, India",India
 5754,"Bedford,England",United Kingdom
 5755,"Leicester, NC",United States of America
-5756,Treble DÃÂ,unknown
+5756,Treble DÃÂÃÂ,unknown_location
 5757,she/her | bi,unknown_location
 5758,"Smithfield, VA",United States of America
 5759,"Birmingham, West Midlands, UK",United Kingdom
@@ -5769,7 +5769,7 @@
 5766,some fuccin forest,unknown_location
 5767,"Eora Nation (Sydney, NSW)",Australia
 5768,Bedfordview,unknown_location
-5769,Cloud 9ÃÂ½,unknown
+5769,Cloud 9ÃÂÃÂ½,unknown_location
 5770,The Garden of England,unknown_location
 5771,"Granger, IN",United States of America
 5772,Hertfordshire/Essex border,United Kingdom
@@ -5778,7 +5778,7 @@
 5775,"Wentworth Falls NSW, AU",Australia
 5776,"Texas City, TX",United States of America
 5777,"Picton, Ontario",Canada
-5778,"Estambul, TurquÃÂ­a",unknown
+5778,"Estambul, TurquÃÂÃÂ­a",Turkey
 5779,Philadelphia ? Fort Worth,United States of America
 5780,West Central IL,United States of America
 5781,"Pomona, CA",United States of America
@@ -5854,8 +5854,8 @@
 5851,Just love. No matter what.,unknown_location
 5852,"Studio City, CA",United States
 5853,"Chicago, IL and Memphis, TN",United States
-5854,BOMÃÂDELÃÂBLR,unknown
-5855,"Sant Feliu de Llobregat, EspaÃÂ±a",unknown
+5854,BOMÃÂÃÂDELÃÂÃÂBLR,unknown_location
+5855,"Sant Feliu de Llobregat, EspaÃÂÃÂ±a",unknown
 5856,"Niagara On The Lake, Canada",Canada
 5857,Chelmsford,United Kingdom
 5858,Dortmund? Stuttgart? Fatsa?,Germany
@@ -5872,7 +5872,7 @@
 5869,Abraham,unknown_location
 5870,"Summit, NJ",United States
 5871,Stalybridge ,United Kingdom
-5872,Un rincÃÂ³n del mundo,unknown
+5872,Un rincÃÂÃÂ³n del mundo,unknown_location
 5873,"Kajang, Selangor",Malaysia
 5874,Winnipeg??Vancouver??Toronto,Canada
 5875,"Fort McMurray, AB",Canada
@@ -5948,7 +5948,7 @@
 5945,"Sanibel, FL",United States of America
 5946,"Toronto, ONT, Canada",Canada
 5947,"Columbus, Nebraska ",United States of America
-5948,Newcastle ÃÂ Geneva ÃÂ Leeds,unknown
+5948,Newcastle ÃÂÃÂ Geneva ÃÂÃÂ Leeds,unknown_location
 5949,"Clairmont, Alberta",Canada
 5950,Rabokala.South africa,South Africa
 5951,"Wibsey, England",United Kingdom
@@ -6037,8 +6037,8 @@
 6034,"Bedford Stuyvesant, Brooklyn",United States
 6035,England untied kingdom ,United Kingdom
 6036,Central PA,United States
-6037,"ÃÂT: 33.637119,-84.431917",unknown
-6038,PanamÃÂ¡,unknown
+6037,"ÃÂÃÂT: 33.637119,-84.431917",United States
+6038,PanamÃÂÃÂ¡,unknown_location
 6039,UK | USA | UAE | CAN | CHN | NL,unknown_location
 6040,Shrewsbury,United Kingdom
 6041,"Bathgate, Scotland",United Kingdom
@@ -6058,11 +6058,11 @@
 6055,Where Ever The ? At ??,unknown_location
 6056,here that tapping? ,unknown_location
 6057,Portland Oregon ,United States
-6058,"ÃÂT: 40.5896566,-74.4274456",unknown
+6058,"ÃÂÃÂT: 40.5896566,-74.4274456",United States of America
 6059,The Outer Limits,unknown_location
 6060,Mermaid Beach Qld,Australia
 6061,34787,unknown_location
-6062,ÃÂ­ ?ÃÂ­?? ÃÂ­? ? ????? ?????? ?????,unknown
+6062,ÃÂÃÂ­ ?ÃÂÃÂ­?? ÃÂÃÂ­? ? ????? ?????? ?????,unknown_location
 6063,NYC | LA | Miami | DC,United States
 6064,Scotland ???????,United Kingdom
 6065,Listening to Grouplove,unknown_location
@@ -6144,8 +6144,8 @@ But you can never leave!""",unknown_location
 6139,"Washington, D.C. Area",United States
 6140,"Plumstead, England",United Kingdom
 6141,"North East, USA",United States
-6142,"Innsbruck, ÃÂsterreich",unknown
-6143,"When the going gets weird, ÃÂ",unknown
+6142,"Innsbruck, ÃÂÃÂsterreich",Austria
+6143,"When the going gets weird, ÃÂÃÂ",unknown_location
 6144,Planet earth,unknown_location
 6145,Glasgow  & Barcelona,United Kingdom & Spain
 6146,"Canada, Ireland, Netherlands","Canada, Ireland, Netherlands"
@@ -6184,38 +6184,38 @@ But you can never leave!""",unknown_location
 6179,"Chandlers Ford, UK",United Kingdom
 6180,KNUST ,unknown_location
 6181,"Radio: @WVNN.   GPTV: @waaytv, @WVNN, @FMTalk1065, & @realtalk995.  Online: @YHN.",unknown_location
-6182,Bae Area,unknown
-6183, Germany?,unknown
-6184,"Arizona City, AZ",unknown
-6185,Highbury in spirit,unknown
-6186,"Gurgaon, Haryana",unknown
-6187,Helios,unknown
-6188,in a strange paradise...,unknown
-6189,In My World,unknown
-6190,"London, Hackney",unknown
-6191,"montpellier, france",unknown
-6192,WOKEminster Abbey ?,unknown
-6193,Okanagan B.C. Canada,unknown
-6194,"Canada, Australia and UK",unknown
-6195,Planet Fhloston,unknown
-6196,World without hate.,unknown
-6197,"Cape York, QLD, Australia",unknown
-6198,looking to get my life back,unknown
+6182,Bae Area,unknown_location
+6183, Germany?,Germany
+6184,"Arizona City, AZ",United States of America
+6185,Highbury in spirit,unknown_location
+6186,"Gurgaon, Haryana",India
+6187,Helios,unknown_location
+6188,in a strange paradise...,unknown_location
+6189,In My World,unknown_location
+6190,"London, Hackney",United Kingdom of Great Britain and Northern Ireland
+6191,"montpellier, france",French Republic
+6192,WOKEminster Abbey ?,unknown_location
+6193,Okanagan B.C. Canada,Canada
+6194,"Canada, Australia and UK",unknown_location
+6195,Planet Fhloston,unknown_location
+6196,World without hate.,unknown_location
+6197,"Cape York, QLD, Australia",Commonwealth of Australia
+6198,looking to get my life back,unknown_location
 6199,? ? ? ? ?C:\India\NewDelhi??,unknown
-6200,preston,unknown
-6201,New Zealand and UK,unknown
-6202,"Osun, Nigeria",unknown
-6203,"Belmont, CA",unknown
-6204,"Dorrington, Nr Shrewsbury, UK",unknown
-6205,Tipton United Kingdom,unknown
-6206,Minneapolis Minnesota,unknown
-6207,Santa Barbara California,unknown
-6208,"Pownal, VT",unknown
+6200,preston,United Kingdom
+6201,New Zealand and UK,United Kingdom
+6202,"Osun, Nigeria",Nigeria
+6203,"Belmont, CA",United States of America
+6204,"Dorrington, Nr Shrewsbury, UK",United Kingdom
+6205,Tipton United Kingdom,United Kingdom
+6206,Minneapolis Minnesota,United States
+6207,Santa Barbara California,United States of America
+6208,"Pownal, VT",United States
 6209,"Mareeba, Far North Queensland",Australia
 6210,Rhydaman - Carmarthenshire,United Kingdom
 6211,NYC/OCNY,United States of America
 6212,"Los Angeles, New York",United States of America
-6213,KÃÂjipuktuk/Halifax,unknown
+6213,KÃÂÃÂjipuktuk/Halifax,Canada
 6214,"South Dublin, Ireland",Ireland
 6215,St Helens,unknown_location
 6216,Anantnag J&K India,India
@@ -6229,7 +6229,7 @@ But you can never leave!""",unknown_location
 6224,"Soshanguve, South Africa",South Africa
 6225,SE Wisconsin and Metro Chicago,United States
 6226,Sharpening Things.,unknown_location
-6227,"MÃÂ¼nster, Germany",unknown
+6227,"MÃÂÃÂ¼nster, Germany",Germany
 6228,Manchester + London,United Kingdom
 6229,Gracanica,unknown_location
 6230,the place,unknown_location
@@ -6286,7 +6286,7 @@ But you can never leave!""",unknown_location
 6281,Pennines,United Kingdom
 6282,"Irwindale, CA",United States of America
 6283,"Makati, Manila",Philippines
-6284,N 51ÃÂ°32' 0'' / E 0ÃÂ°2' 0'',unknown
+6284,N 51ÃÂÃÂ°32' 0'' / E 0ÃÂÃÂ°2' 0'',unknown_location
 6285,Palm Springs CA,United States of America
 6286,Belfast Co Antrim,United Kingdom
 6287,"Gloucestershire, UK",United Kingdom
@@ -6317,8 +6317,8 @@ But you can never leave!""",unknown_location
 6312,DC/Denver,United States of America
 6313,"Teneriffe, Queensland",Australia
 6314,thra,unknown_location
-6315,Vilanova i la GeltrÃÂº,unknown
-6316,"ÃÂT: 45.478969,9.191217",unknown
+6315,Vilanova i la GeltrÃÂÃÂº,Spain
+6316,"ÃÂÃÂT: 45.478969,9.191217",unknown_location
 6317,Venice | Chicago | NYC,unknown_location
 6318,rva ,unknown_location
 6319,Detroit Pune Beirut,unknown_location
@@ -6336,7 +6336,7 @@ But you can never leave!""",unknown_location
 6331,We The North ,unknown_location
 6332,Between LA ? and NYC ??,United States of America
 6333,"Greenfield, Indiana",United States of America
-6334,New York ÃÂ Delhi,unknown
+6334,New York ÃÂÃÂ Delhi,United States
 6335,"London, Birmingham, Brighton.",United Kingdom of Great Britain and Northern Ireland
 6336,"Westbrook, Alberta",Canada
 6337, Pa,United States of America
@@ -6363,7 +6363,7 @@ But you can never leave!""",unknown_location
 6358,"Hell, I retweet a lot.",unknown_location
 6359,"Dunedin, FL & Toronto",United States of America
 6360,Wyong River NSW,Australia
-6361,In JaebeomÃÂs eyes,unknown
+6361,In JaebeomÃÂÃÂs eyes,unknown_location
 6362,Lowell Ma.,United States of America
 6363,AUTOMATE your Twitter ???,unknown_location
 6364,@Far north of Scotland ,United Kingdom of Great Britain and Northern Ireland
@@ -6412,9 +6412,9 @@ But you can never leave!""",unknown_location
 6407,T,unknown_location
 6408,New York City and points West,United States of America
 6409,upstate New York,United States of America
-6410,C'est oÃÂ¹?,unknown
+6410,C'est oÃÂÃÂ¹?,unknown_location
 6411,"Seabrook, TX",United States
-6412,"HyÃÂ¨res, France",unknown
+6412,"HyÃÂÃÂ¨res, France",France
 6413,Woodrow Wilson Center,unknown_location
 6414,Chennai ,India
 6415,"Weed, CA",United States
@@ -6451,7 +6451,7 @@ But you can never leave!""",unknown_location
 6446,"iPhone: 51.537567,-0.141675",unknown_location
 6447,"Not Investment Advice, DYOR.",unknown_location
 6448,"Andersons Bay, Dunedin City",New Zealand
-6449,"18.9872ÃÂ° N, 72.8290ÃÂ° E",unknown
+6449,"18.9872ÃÂÃÂ° N, 72.8290ÃÂÃÂ° E",unknown_location
 6450,lagos nigeria,Nigeria
 6451,"T?maki Makaurau, Aotearoa",New Zealand
 6452,Italy / Spain / India,unknown_location
@@ -6499,8 +6499,8 @@ But you can never leave!""",unknown_location
 6494,"Flitwick, England",United Kingdom
 6495,"Louth, Ireland",Ireland
 6496,"Helotes, TX",United States of America
-6497,ZÃÂ¼rich,unknown
-6498,"TÃÂ¡chira, Venezuela",unknown
+6497,ZÃÂÃÂ¼rich,Switzerland
+6498,"TÃÂÃÂ¡chira, Venezuela",Venezuela
 6499,Laval,Canada
 6500,Canada ???,Canada
 6501,"From White Rock, B.C.",Canada
@@ -6566,7 +6566,7 @@ But you can never leave!""",unknown_location
 6561,usually somewhere in England,United Kingdom
 6562,somewhere in England,United Kingdom
 6563,Tempe Ahwatukee Chandler Mesa,United States of America
-6564,Athens ÃÂ· Berlin ÃÂ· Brussels,unknown
+6564,Athens ÃÂÃÂ· Berlin ÃÂÃÂ· Brussels,unknown_location
 6565,"Fresno, Calif.",United States of America
 6566,On your phone screen ,unknown_location
 6567,"Kuala Selangor, Selangor",Malaysia
@@ -6583,11 +6583,11 @@ But you can never leave!""",unknown_location
 6578,Delhi; Tokyo; Kathmandu; DC,India
 6579,"California, PA",United States
 6580,Perth - New Holland,Australia
-6581,"ÃÂT: 51.512407,-0.136951",unknown
+6581,"ÃÂÃÂT: 51.512407,-0.136951",United Kingdom
 6582,"North Yorkshire, England",United Kingdom
 6583,"Boston, SF, NYC, Orlando, UK",United States
 6584,?? SPACE 3.1415,unknown_location
-6585,"MalmÃÂ¶, European Union",unknown
+6585,"MalmÃÂÃÂ¶, European Union",unknown
 6586,"Suffolk, England",United Kingdom
 6587,"Mamaroneck, NY",United States
 6588,In quarantine,unknown_location
@@ -6646,7 +6646,7 @@ But you can never leave!""",unknown_location
 6641,London (from Cetraro),United Kingdom
 6642,"University Park, PA",United States
 6643,Hanging in my pillow fort. ,unknown_location
-6644,N 45ÃÂ°27' 0'' / W 122ÃÂ°37' 0'',unknown
+6644,N 45ÃÂÃÂ°27' 0'' / W 122ÃÂÃÂ°37' 0'',United States of America
 6645,"Los Angeles, Ca.",United States
 6646,"Roermond, Limburg",Netherlands
 6647,Its Happening Here,unknown_location
@@ -6690,7 +6690,7 @@ But you can never leave!""",unknown_location
 6685,Athens Greece,Greece
 6686,"Washington, DC & Cambridge, UK",United States of America
 6687,choose your thoughts wisely ,unknown_location
-6688,"ÃÂT: 50.84382,-1.090148",unknown
+6688,"ÃÂÃÂT: 50.84382,-1.090148",United Kingdom
 6689,Delhi-Noida,India
 6690,Southern Calif.,United States of America
 6691,San Francisco ,United States of America
@@ -6738,7 +6738,7 @@ But you can never leave!""",unknown_location
 6733,"Eagan, MN",United States of America
 6734,"Lubbock, Texas",United States of America
 6735,3675 S 900 E Salt Lake City,United States of America
-6736, Kitgum ÃÂ Nwoya ÃÂ Gulu ??,unknown
+6736, Kitgum ÃÂÃÂ Nwoya ÃÂÃÂ Gulu ??,unknown_location
 6737,Phillip ACT Canberra Australia,Australia
 6738,(: ,unknown_location
 6739,"Sheffield, the North",United Kingdom
@@ -6752,7 +6752,7 @@ But you can never leave!""",unknown_location
 6747,"Global, Meet me at an Airport ",unknown_location
 6748,"Windsor, CA",Canada
 6749,"Headquartered in Oslo, Norway",Norway
-6750," Shenzhen, Guangdong, PR China",unknown
+6750," Shenzhen, Guangdong, PR China",People's Republic of China
 6751,the House of Two Rams ,unknown_location
 6752,ACNH ,unknown_location
 6753,Croxley Green,United Kingdom
@@ -6805,7 +6805,7 @@ But you can never leave!""",unknown_location
 6800,Mt Lakes; Ponte Vedra Beach,unknown_location
 6801,"Temple, TX",United States of America
 6802,"Shanghai, People's Republic of China",People's Republic of China
-6803,"QuÃÂ©bec, Canada",unknown
+6803,"QuÃÂÃÂ©bec, Canada",Canada
 6804,boumerdes,unknown_location
 6805,"Burlington, Lucknow",unknown_location
 6806,"Wickford, East",unknown_location
@@ -6849,9 +6849,9 @@ But you can never leave!""",unknown_location
 6844,"Rhu, Argyll & Bute",United Kingdom
 6845,Ireland | UK | Luxembourg,unknown_location
 6846,From Louisiana & Lives in Ohio,United States of America
-6847,N 26ÃÂ°32' 0'' / W 80ÃÂ°6' 0'',unknown
+6847,N 26ÃÂÃÂ°32' 0'' / W 80ÃÂÃÂ°6' 0'',unknown_location
 6848,"iPhone: 40.720944,-74.001480",unknown_location
-6849,United States Of America ÃÂ®,unknown
+6849,United States Of America ÃÂÃÂ®,United States of America
 6850,"Inverness, Scotland",United Kingdom
 6851,"Perth, Wild West Australia",Australia
 6852,"Boksburg, South Africa",South Africa
@@ -6871,7 +6871,7 @@ But you can never leave!""",unknown_location
 6866,Cheltenham uk,United Kingdom
 6867,??Get 25% Super LUNG Support??,unknown_location
 6868,"Saragossa, Spain",Spain
-6869, Bromsgrove,unknown
+6869, Bromsgrove,United Kingdom
 6870,Twitter Jail,unknown_location
 6871,Anglo-Saxon Heptarchy,unknown_location
 6872,California (o/18 :-),United States of America
@@ -6886,13 +6886,13 @@ But you can never leave!""",unknown_location
 6881,"Telford, PA 18969",United States of America
 6882,World citizen,unknown_location
 6883,"Pukekohe, New Zealand",New Zealand
-6884,"Miami, FL USA / Lima, PerÃÂº",unknown
-6885,"ÃÂT: 45.364935,-87.62387",unknown
+6884,"Miami, FL USA / Lima, PerÃÂÃÂº",Peru
+6885,"ÃÂÃÂT: 45.364935,-87.62387",unknown_location
 6886,"Kirkintilloch, Bearsden",United Kingdom
 6887,"?????? ????, ??????? ???????? ",unknown_location
 6888,"Gander, Newfoundland and Labrador",Canada
 6889,Los Estados Unidos,United States of America
-6890, Telugunadu,unknown
+6890, Telugunadu,India
 6891,Wickford,United Kingdom
 6892,Offices worldwide,unknown_location
 6893,"Garfield Heights, OH",United States of America
@@ -6977,7 +6977,7 @@ But you can never leave!""",unknown_location
 6972,"Draper, Utah",United States of America
 6973,"Callawassie Island, SC",United States of America
 6974,"Swindon, United Kingdom",United Kingdom
-6975,"OrlÃÂ©ans/Paris, France",unknown
+6975,"OrlÃÂÃÂ©ans/Paris, France",France
 6976,Actionable advice here:,unknown_location
 6977,"Lund, BC - Klah ah men",Canada
 6978,"Elmvale, Ontario",Canada
@@ -7022,7 +7022,7 @@ But you can never leave!""",unknown_location
 7017,Torino,Italy
 7018,"Louisville,KY/Radcliff,KY",United States of America
 7019,"Cornwall & Devon, UK",United Kingdom
-7020,"Palma De Mallorca, EspaÃÂ±a",unknown
+7020,"Palma De Mallorca, EspaÃÂÃÂ±a",Spain
 7021,"Morgantown, WV",United States of America
 7022,"San Dimas, California",United States of America
 7023,DFW Metroplex,United States of America
@@ -7034,9 +7034,9 @@ But you can never leave!""",unknown_location
 7029,"????????, ??? ??????? ",unknown_location
 7030,Room LoL,unknown_location
 7031,North Florida,United States of America
-7032, Indiana ,unknown
+7032, Indiana ,United States
 7033,"Lorain, OH",United States of America
-7034,Retweet doesnÃÂt = endorsement,unknown
+7034,Retweet doesnÃÂÃÂt = endorsement,unknown_location
 7035,"Ottawa, ON Canada",Canada
 7036,Inland Empire,United States of America
 7037,Kidderminster,United Kingdom
@@ -7086,7 +7086,7 @@ But you can never leave!""",unknown_location
 7081,Kent / London,United Kingdom
 7082,"Rock Springs, WY",United States of America
 7083,With The YAMMMMMSSSSSS,unknown_location
-7084,"AlmerÃÂ­a, Spain",unknown
+7084,"AlmerÃÂÃÂ­a, Spain",unknown
 7085,"305 East Sixth Ave. Rome, GA 30161",United States of America
 7086,"Niagara, Canada",Canada
 7087,"Hurst, TX",United States of America
@@ -7095,7 +7095,7 @@ But you can never leave!""",unknown_location
 7090,Edinburgh ,United Kingdom
 7091,"Inland Empire, California",United States of America
 7092,Were-ever,unknown_location
-7093,"AsunciÃÂ³n, Paraguay",unknown
+7093,"AsunciÃÂÃÂ³n, Paraguay",Paraguay
 7094,MN lakes to TN mountains,unknown_location
 7095,"Medway, MA",United States of America
 7096,Anywhere you aren't.,unknown_location
@@ -7127,7 +7127,7 @@ But you can never leave!""",unknown_location
 7122,Jersey,unknown_location
 7123,Toronto & Calgary,Canada
 7124,"San Francisco, Ca",United States of America
-7125,"ÃÂT: 40.763238,-73.978066",unknown
+7125,"ÃÂÃÂT: 40.763238,-73.978066",United States of America
 7126,"Ketchum, ID",United States of America
 7127,Central Coast Calif,United States of America
 7128,"Herne Bay, England",United Kingdom
@@ -7140,9 +7140,9 @@ But you can never leave!""",unknown_location
 7135,Kailash ,unknown_location
 7136,"Johnston, Iowa",United States of America
 7137,234,unknown_location
-7138," Deep River, Connecticut, USA",unknown
+7138," Deep River, Connecticut, USA",United States of America
 7139,Brighton UK and Bayonne France,
-7140,MontrealÃÂNYÃÂHong KongÃÂShanghai,unknown
+7140,MontrealÃÂÃÂNYÃÂÃÂHong KongÃÂÃÂShanghai,China
 7141,Somewhere Over The Rainbow,unknown_location
 7142,"Maidstone, South East",United Kingdom
 7143,CH SouthSide,unknown_location
@@ -7168,7 +7168,7 @@ But you can never leave!""",unknown_location
 7163,5530 Union Centre Drive West C,unknown_location
 7164,Santiago Chile,Chile
 7165,"norfolk, UK",United Kingdom
-7166,Texas YÃÂall,unknown
+7166,Texas YÃÂÃÂall,United States
 7167,"Barcelona, Madrid, London, Mexico City...",
 7168,"Lusaka, Zambia ",Zambia
 7169,7 Continents ,unknown_location
@@ -7187,12 +7187,12 @@ But you can never leave!""",unknown_location
 7182,socially interactive pub,unknown_location
 7183,Romford,United Kingdom
 7184,"England, soon Scotland ??",
-7185,RÃÂ©publique DÃÂ©mocratique Du Con,unknown
+7185,RÃÂÃÂ©publique DÃÂÃÂ©mocratique Du Con,unknown_location
 7186,Minneapolis ,United States of America
 7187,earf,unknown_location
 7188,"Earith, England",United Kingdom
 7189,"Plover, WI",United States of America
-7190,"Lyon, RhÃÂ´ne-Alpes",unknown
+7190,"Lyon, RhÃÂÃÂ´ne-Alpes",France
 7191,Double parked n twilight zone!,unknown_location
 7192,"Tiguex, Nuevo Mexico",United States of America
 7193,"Hackney Wick, east London, UK",United Kingdom
@@ -7246,7 +7246,7 @@ But you can never leave!""",unknown_location
 7241,QUT Brisbane,Australia
 7242,"Fujairah, UAE.",United Arab Emirates
 7243,"Cliffoney, Sligo, Ireland",Ireland
-7244,  170825 ? shinee ? svt ? vixx,unknown
+7244,  170825 ? shinee ? svt ? vixx,unknown_location
 7245,"Bury, England",United Kingdom
 7246,"Worcester, Mass.",United States of America
 7247,"Frankfurt, Brussels, Harvard",unknown_location
@@ -7254,7 +7254,7 @@ But you can never leave!""",unknown_location
 7249,MEDWAY ,unknown_location
 7250,Pepperland,unknown_location
 7251,"Brevard County, Florida",United States of America
-7252,"CuliacÃÂ¡n, Sin. Mexico city",unknown
+7252,"CuliacÃÂÃÂ¡n, Sin. Mexico city",United Mexican States
 7253,"Werrington, stoke on trent!",United Kingdom
 7254,"New York, New Jersey, & Miami",United States of America
 7255,Nanaimo,Canada
@@ -7274,10 +7274,10 @@ But you can never leave!""",unknown_location
 7269,Scotland.,United Kingdom
 7270,210,unknown_location
 7271,"London, Surrey, Sussex, Hants",United Kingdom
-7272,"ÃÂT: 41.230596,-76.976382",unknown
+7272,"ÃÂÃÂT: 41.230596,-76.976382",unknown_location
 7273,WelwynHatfield,United Kingdom
 7274,"North Versailles, PA",United States of America
-7275,"SkÃÂ¶vde, Sweden",unknown
+7275,"SkÃÂÃÂ¶vde, Sweden",Sweden
 7276,.,unknown_location
 7277,"Kissimmee, FL / Noord-Brabant",United States of America
 7278,"Bradford, Srinagar",unknown_location
@@ -7317,12 +7317,12 @@ But you can never leave!""",unknown_location
 7312,I am constantly amazed,unknown_location
 7313,"Kingsport, TN",United States of America
 7314,"Atlanta,Ga",United States of America
-7315,"ÃÂT: 40.755893,-73.985638",unknown
-7316,"ÃÂT: 18.912306,72.822138",unknown
+7315,"ÃÂÃÂT: 40.755893,-73.985638",United States
+7316,"ÃÂÃÂT: 18.912306,72.822138",India
 7317,"North Bay, Ontario, Canada",Canada
 7318,Townie,unknown_location
 7319,Sri Lanka ????? ???? ?????? ?,Sri Lanka
-7320,FtLaudFLÃÂSavannahGAÃÂKENTUCKY?,unknown
+7320,FtLaudFLÃÂÃÂSavannahGAÃÂÃÂKENTUCKY?,unknown_location
 7321,Proud Tennessean,United States of America
 7322,Medicine Hat,Canada
 7323,"Abita Springs, LA",United States of America
@@ -7454,10 +7454,10 @@ But you can never leave!""",unknown_location
 7449,#WIPit #WIPitRealGood ,unknown_location
 7450,Hearts  ,unknown_location
 7451,otjiwarongo,Namibia
-7452,"Boston, MontrÃÂ©al, Paris",unknown
+7452,"Boston, MontrÃÂÃÂ©al, Paris",unknown
 7453,"Wheeling, WV",United States of America
-7454,BogotÃÂ¡ ,unknown
-7455,MedellÃÂ­n,unknown
+7454,BogotÃÂÃÂ¡ ,Colombia
+7455,MedellÃÂÃÂ­n,unknown
 7456,DC/Northern VA,United States of America
 7457,The World!,unknown_location
 7458,Bengaluru-India,India
@@ -7549,7 +7549,7 @@ But you can never leave!""",unknown_location
 7544,"Penang ,Malaysia",Malaysia
 7545,"Wayne County, Ohio",United States of America
 7546,"Frederick, Maryland",United States of America
-7547,"KÃÂ¸benhavn, Danmark",unknown
+7547,"KÃÂÃÂ¸benhavn, Danmark",unknown
 7548,"Gda?sk, Polska",Poland
 7549,India Today Mediaplex,unknown_location
 7550,Nagpur,India
@@ -7589,7 +7589,7 @@ But you can never leave!""",unknown_location
 7584,PHL | NYC | CHI,unknown_location
 7585,Ivanhoe Scotland,United Kingdom
 7586,Beautiful Ottawa Valley,Canada
-7587,BodÃÂ©wadmi-Illiniwek-Miami Land,unknown
+7587,BodÃÂÃÂ©wadmi-Illiniwek-Miami Land,unknown_location
 7588,"Salisbury, Wiltshire, London",United Kingdom
 7589,Halifax NS,Canada
 7590,At the pub ,unknown_location
@@ -7687,7 +7687,7 @@ But you can never leave!""",unknown_location
 7682,A hated-by-Liberals atheist in The Sceptred Isle.,United Kingdom
 7683,"Upper Darby, Pa.",United States of America
 7684,Hyderabad ,India
-7685,"SÃÂ£o Carlos, Brazil",unknown
+7685,"SÃÂÃÂ£o Carlos, Brazil",unknown_location
 7686,Washington... the State.  ,United States of America
 7687,Planet Earth-If we can keep it,unknown_location
 7688,stolen powhatan land ,unknown_location
@@ -7749,7 +7749,7 @@ But you can never leave!""",unknown_location
 7744,Erbil/Copenhagen/Windsor,unknown_location
 7745, ?? ???? ??? ????? ??????? ,unknown_location
 7746,"Dunkwa, Ghana",Ghana
-7747,"ÃÂT: 40.002469,-75.74489",unknown
+7747,"ÃÂÃÂT: 40.002469,-75.74489",unknown
 7748,"Moscow, St Petersburg, Berlin",unknown_location
 7749,"Bozeman, MT",United States of America
 7750,The cabin jumpseat.,unknown_location
@@ -7761,7 +7761,7 @@ But you can never leave!""",unknown_location
 7756,"Catshill, Bromsgrove",United Kingdom
 7757,"Kiruhura, Uganda",Uganda
 7758,"Abu Dhabi, United Arab Emirates",United Arab Emirates
-7759,"ÃÂT: 43.661815,-79.377458",unknown
+7759,"ÃÂÃÂT: 43.661815,-79.377458",unknown_location
 7760,845 NY WORLDWIDE 2 D[M]V,unknown_location
 7761,Taken By Amber ,unknown_location
 7762,"Westland, MI",United States of America
@@ -7799,12 +7799,12 @@ But you can never leave!""",unknown_location
 7794,"Gezina, Pretoria",South Africa
 7795,"Celbridge, Ireland",Ireland
 7796,"Calgary, AB, Canada",Canada
-7797,In an urn in TargÃÂ©,unknown
+7797,In an urn in TargÃÂÃÂ©,unknown_location
 7798,California's Central Valley,United States of America
 7799,Kcmo,unknown_location
 7800,London | The Shires,unknown_location
 7801,"Pontiac, Michigan",United States of America
-7802,"Murcia, EspaÃÂ±a",unknown
+7802,"Murcia, EspaÃÂÃÂ±a",Spain
 7803,"Ramsey, Isle of Man",Isle of Man
 7804,Ft lauderdale,United States of America
 7805,Gauteng,South Africa
@@ -7823,7 +7823,7 @@ But you can never leave!""",unknown_location
 7818,Juba,South Sudan
 7819,"Rancho Mirage, California",United States of America
 7820,"Los Angeles,CA",United States of America
-7821,KosovÃÂ«,unknown
+7821,KosovÃÂÃÂ«,unknown_location
 7822,"Occupied Lanape Land, NYC",unknown_location
 7823,????? ,unknown_location
 7824,"Bangor, Northern Ireland",United Kingdom
@@ -7851,24 +7851,24 @@ But you can never leave!""",unknown_location
 7846,LEO,unknown_location
 7847,"Berks/Bucks, England",United Kingdom
 7848,Anywhere but here,unknown_location
-7849,"EnkÃÂ¶ping, Sverige",unknown
+7849,"EnkÃÂÃÂ¶ping, Sverige",Sweden
 7850,EVERYWHERE ,unknown_location
 7851,"Cranbury, NJ",United States of America
 7852,"Suburbs of Summer Shade, KY",United States of America
 7853,"Buckeye, AZ",United States of America
 7854,indias septentrionales,unknown_location
-7855,"BogotÃÂ¡, Colombia",unknown
+7855,"BogotÃÂÃÂ¡, Colombia",unknown
 7856,"San Salvador, Los, Nueva Inglaterra",unknown_location
 7857,handle[at]gmail dot com,unknown_location
 7858,"america, usa",United States of America
 7859,"Isle Madame, CANADA ",Canada
-7860,#NoNazis?? kaspum zahÃÂ¡v,unknown
+7860,#NoNazis?? kaspum zahÃÂÃÂ¡v,unknown_location
 7861," Sydney, Australia",Australia
 7862,"Rye Brook, NY",United States of America
 7863,"Detmold, Germany",Germany
 7864,City of Brighton & Hove,United Kingdom
 7865,"Anchorage, AK-based New Yorker",United States of America
-7866,IruÃÂ±ea / Pamplona,unknown
+7866,IruÃÂÃÂ±ea / Pamplona,Spain
 7867,"Hartley, Kent",United Kingdom
 7868,Where great Minds Meet ,unknown_location
 7869,The Motor City,United States of America
@@ -7919,25 +7919,25 @@ But you can never leave!""",unknown_location
 7914,Poland/India,unknown_location
 7915,"Minsk, Belarus",Belarus
 7916,Vineland NJ,United States
-7917,"BozÃÂ¼yÃÂ¼k, TÃÂ¼rkiye",unknown
-7918,"Anh Ch? Em,  LÃÂªn ???ng",unknown
-7919,"ÃÂT: 30.530485,-84.193009",unknown
+7917,"BozÃÂÃÂ¼yÃÂÃÂ¼k, TÃÂÃÂ¼rkiye",Türkiye
+7918,"Anh Ch? Em,  LÃÂÃÂªn ???ng",unknown_location
+7919,"ÃÂÃÂT: 30.530485,-84.193009",United States of America
 7920,Val Of Ashes 2 Highest Of Hgts,unknown_location
-7921,"Location, Chicago ",unknown
+7921,"Location, Chicago ",United States
 7922,"Philadelphia, PA USA",United States
 7923,GHETTO,unknown_location
 7924,Sissyfornia,unknown_location
 7925,"Key West, FL",United States
-7926,"Swindon, Wiltshire, Blighty",unknown
+7926,"Swindon, Wiltshire, Blighty",United Kingdom
 7927,Land of the Sky Blue Waters,unknown_location
-7928,South Bristol. UK,unknown
+7928,South Bristol. UK,United Kingdom
 7929,"Tillsonburg, ON, Canada",Canada
 7930,Galar,unknown_location
 7931,"Rugeley, England",United Kingdom
 7932,North Warwickshire,United Kingdom
 7933,Www.PersonalData.IO,unknown_location
 7934,"Irvine, 92604",United States
-7935,Seattle ÃÂ New York ÃÂ Boise,unknown
+7935,Seattle ÃÂÃÂ New York ÃÂÃÂ Boise,United States of America
 7936,Rocky Mountains,unknown_location
 7937,Colorado USA,United States
 7938,WD,unknown_location
@@ -7954,7 +7954,7 @@ But you can never leave!""",unknown_location
 7949,"Saltash, England",United Kingdom
 7950,"Notting Hill, London",United Kingdom
 7951,"Haleiwa, HI",United States
-7952,"Longueuil, QuÃÂ©bec, Canada",unknown
+7952,"Longueuil, QuÃÂÃÂ©bec, Canada",Canada
 7953,NY/PA/IL/CA/SC/TX,United States
 7954,"kano, Kaduna ",Nigeria
 7955,Doggerland 2020,unknown_location
@@ -7964,7 +7964,7 @@ But you can never leave!""",unknown_location
 7959,Nottinghamshire,United Kingdom
 7960,Somewhere in Melbourne ,Australia
 7961,"Ayr, Scotland",United Kingdom
-7962,Mr AshÃÂs,unknown
+7962,Mr AshÃÂÃÂs,unknown
 7963,"Boulders Beach, Penguin Colony",South Africa
 7964,"Addis Abeba, Ethiopia ",Ethiopia
 7965,Oldies Country,unknown_location
@@ -8010,7 +8010,7 @@ But you can never leave!""",unknown_location
 8005,Eora Country | Kaurna Country ,unknown_location
 8006,Parktown,unknown_location
 8007,"Corsicana, Texas",United States
-8008,"Brum, RTs/Likes ?ÃÂ endorsement",unknown
+8008,"Brum, RTs/Likes ?ÃÂÃÂ endorsement",unknown_location
 8009,"Rinky-Dink, West Virginia",United States
 8010,We Dont Call the Cops ,unknown_location
 8011,Hebei,China
@@ -8021,7 +8021,7 @@ But you can never leave!""",unknown_location
 8016,"Washington, DC. ",United States of America
 8017,Who knows!!,unknown_location
 8018,"Johore, Malaysia",Malaysia
-8019,"KrakÃÂ³w/Warszawa, Poland",unknown
+8019,"KrakÃÂÃÂ³w/Warszawa, Poland",Poland
 8020,"Indianapolis, Indiana, USA",United States
 8021,out there,unknown_location
 8022,Kigali | Rwanda ,Rwanda
@@ -8085,7 +8085,7 @@ But you can never leave!""",unknown_location
 8080,"London, pakistan",Pakistan
 8081,"Bangkok, Thailand ",Thailand
 8082,Quarantined,unknown_location
-8083,"Staying safe, staying home! ",unknown
+8083,"Staying safe, staying home! ",unknown_location
 8084,"Tzaneen|Polokwane|Pretoria,ZA",South Africa
 8085,"Bethlehem, PA",United States
 8086,"FB, Snap & Insta: FOX2Detroit",unknown_location
@@ -8098,11 +8098,11 @@ But you can never leave!""",unknown_location
 8093,Dumb Dumb Town,unknown_location
 8094,West of everything.,unknown_location
 8095,3rd Rock from the Sun,unknown_location
-8096,Bolton ,unknown
+8096,Bolton ,United Kingdom
 8097,"Covington, LA",United States
 8098,"Noordheuwel, South Africa",South Africa
-8099,En algÃÂºn lugar...,unknown
-8100,"Upstate, NY ",unknown
+8099,En algÃÂÃÂºn lugar...,unknown_location
+8100,"Upstate, NY ",United States
 8101,Kirkcaldy,United Kingdom
 8102,"Centurion, South Africa",South Africa
 8103,North Carolina and Michigan,United States
@@ -8112,7 +8112,7 @@ But you can never leave!""",unknown_location
 8107,Sudan,Sudan
 8108,"Marlboro, NJ",United States
 8109,Pompton Plains NJ 07444,United States
-8110,she/her | 18 | N L ,unknown
+8110,she/her | 18 | N L ,unknown_location
 8111,some where around the globe,unknown_location
 8112,"Falkirk, Scotland",United Kingdom
 8113,"Brea, CA",United States
@@ -8120,16 +8120,16 @@ But you can never leave!""",unknown_location
 8115,"Sidmouth, Devon",United Kingdom
 8116,The Capitol,unknown_location
 8117,"Kampala, Uganda ",Uganda
-8118,"Southbourne, Bournemouth",unknown
-8119,"Sylvania, Ohio",unknown
-8120,free $bat 4 surfing the web,unknown
-8121,Chemnitz,unknown
-8122,"Marietta, Ohio",unknown
-8123,Elwynn Forest,unknown
-8124,"Garden Grove, CA",unknown
-8125,Cape Town x Langebaan,unknown
-8126,Quincy,unknown
-8127,Samangan,unknown
+8118,"Southbourne, Bournemouth",United Kingdom
+8119,"Sylvania, Ohio",United States
+8120,free $bat 4 surfing the web,unknown_location
+8121,Chemnitz,Germany
+8122,"Marietta, Ohio",United States
+8123,Elwynn Forest,unknown_location
+8124,"Garden Grove, CA",United States
+8125,Cape Town x Langebaan,South Africa
+8126,Quincy,United States
+8127,Samangan,Afghanistan
 8128,"Bahawalpur, Pakistan",Pakistan
 8129," Bhagalpur,Bihar, Delhi,India",India
 8130,LAHORE,Pakistan
@@ -8143,7 +8143,7 @@ But you can never leave!""",unknown_location
 8138,In between London and Brazil,unknown_location
 8139,Dallas TX and East Texas,United States of America
 8140,DC area and the Baltic galaxy!,unknown_location
-8141,Lost in archieÃÂs perfect eyes ,unknown
+8141,Lost in archieÃÂÃÂs perfect eyes ,unknown_location
 8142,"Phx, Az.",United States of America
 8143,Woodinville Wa,United States of America
 8144,Brighton-London,United Kingdom
@@ -8184,7 +8184,7 @@ But you can never leave!""",unknown_location
 8179,"East Kilbride, Scotland",United Kingdom
 8180,Zurich,Switzerland
 8181,London/Singapore,unknown_location
-8182,Yorkshire ÃÂ UK ÃÂ Europe,unknown
+8182,Yorkshire ÃÂÃÂ UK ÃÂÃÂ Europe,United Kingdom
 8183,"Here, there, everywhere",unknown_location
 8184,"Alberton, South Africa",South Africa
 8185,kylie owns me,unknown_location
@@ -8194,14 +8194,14 @@ But you can never leave!""",unknown_location
 8189,oman ????,Oman
 8190,"Moscow, ID",United States of America
 8191,"Bavaria, Germany",Germany
-8192,en el balcÃÂ³n de casa,unknown
+8192,en el balcÃÂÃÂ³n de casa,unknown
 8193,"Hanford, CA",United States
 8194,"Lancashire, England, UK.",United Kingdom
 8195,"Antrim, Northern Ireland",United Kingdom
 8196,Glasweegieland,unknown_location
 8197,"Nelson, New Zealand",New Zealand
 8198,"Elizabeth, NJ",United States
-8199,"BrasÃÂ­lia, Brazil",unknown
+8199,"BrasÃÂÃÂ­lia, Brazil",unknown
 8200,"Kharghar, Panvel",India
 8201,"Bidhan Nagar, India",India
 8202,gadigal land,unknown_location
@@ -8248,7 +8248,7 @@ But you can never leave!""",unknown_location
 8243,"Chappaqua, NY",United States of America
 8244,"Trento, Firenze (Italy)",Italy
 8245,"Columbus / Athens ,Ohio",United States of America
-8246,Lives in a kakistocracy/ÃÂire ,unknown
+8246,Lives in a kakistocracy/ÃÂÃÂire ,unknown
 8247,Where ever I darn well please.,unknown_location
 8248,"University of Waterloo, Canada",Canada
 8249,"Caledonia, Ontario",Canada
@@ -8260,7 +8260,7 @@ But you can never leave!""",unknown_location
 8255,Fun City,unknown_location
 8256,"Lawton, OK",United States of America
 8257,"~ JHB, South Africa",South Africa
-8258,"ViÃÂ§osa, Brasil",unknown
+8258,"ViÃÂÃÂ§osa, Brasil",Brazil
 8259,TKN,unknown_location
 8260,Correct Time Zone,unknown_location
 8261,Lostock Hall,unknown_location
@@ -8306,7 +8306,7 @@ But you can never leave!""",unknown_location
 8301,"Cambridge, Cambridgeshire",United Kingdom
 8302,Washingron DC,United States of America
 8303,Penn State University Park,United States of America
-8304,abidjan,Côte d'Ivoire
+8304,abidjan,CÃ´te d'Ivoire
 8305,New York City.,United States of America
 8306,"Perth, Ontario, Canada",Canada
 8307,Kitchener | Ontario | Canada,Canada
@@ -8314,8 +8314,8 @@ But you can never leave!""",unknown_location
 8309,"Trenton, MI",United States of America
 8310,"Subotica, Serbia",Serbia
 8311,Almost Heaven,unknown_location
-8312,"ÃÂT: 54.975455,-1.595362",unknown
-8313,OlaminaÃÂs Acorn,unknown
+8312,"ÃÂÃÂT: 54.975455,-1.595362",unknown
+8313,OlaminaÃÂÃÂs Acorn,unknown_location
 8314,jenkintown pa,United States of America
 8315,"Manchester, CT 06040",United States of America
 8316,British European,unknown_location
@@ -8369,8 +8369,8 @@ But you can never leave!""",unknown_location
 8364,"? is taken, ? is free",unknown_location
 8365,"Benedenstad, Gorinchem",Netherlands
 8366,"online somewhat, offline in CA",unknown_location
-8367,"Puebla, MÃÂ©xico",unknown
-8368,TÃÂ¼rkiye Cumhuriyeti,unknown
+8367,"Puebla, MÃÂÃÂ©xico",Mexico
+8368,TÃÂÃÂ¼rkiye Cumhuriyeti,unknown
 8369,Simcoe County,Canada
 8370,BIAFRA LAND,unknown_location
 8371,Dystopian Nightmare,unknown_location
@@ -8383,7 +8383,7 @@ But you can never leave!""",unknown_location
 8378,"La Jolla, CA",United States of America
 8379,"Iowa, USA info@farms.com",United States of America
 8380,SW Michigan,United States of America
-8381,KingÃÂs Canyon,unknown
+8381,KingÃÂÃÂs Canyon,unknown_location
 8382," Springdale,AR",United States
 8383,"Fort myers, fl",United States of America
 8384,"YOcumTOWN, PA",United States of America
@@ -8442,7 +8442,7 @@ But you can never leave!""",unknown_location
 8437,"Seremban, Negeri Sembilan",Malaysia
 8438,Gold Coast Australia,Australia
 8439,In the dream taking shots!!!,unknown_location
-8440,relaxing in MyBonnÃÂ©t,unknown
+8440,relaxing in MyBonnÃÂÃÂ©t,unknown_location
 8441,"Floral Park, NY",United States of America
 8442,Edinburg,United Kingdom
 8443,"Grand Island, NY",United States of America
@@ -8577,7 +8577,7 @@ But you can never leave!""",unknown_location
 8572,"Lakewood (CA, United States)",United States
 8573,Republic of Bobistan,unknown_location
 8574,National Capital Region Canada,Canada
-8575,??? ???  ???? ??? ??????????,unknown
+8575,??? ???  ???? ??? ??????????,unknown_location
 8576,USA + TUNISIA,United States
 8577,"Hell, paved by good intentions",unknown_location
 8578,"Mariposa, California",United States
@@ -8597,33 +8597,33 @@ But you can never leave!""",unknown_location
 8592,Ottawa via Dartmouth,Canada
 8593,Brum,unknown_location
 8594,"Huddersfield, West Yorkshire",United Kingdom
-8595,ware,unknown
-8596,xuxu rolls?// olivia?// multi,unknown
-8597,Greater Chicago Area,unknown
-8598,#VeteransAgainstTrump ,unknown
-8599,pattukkottai,unknown
-8600,"Brussels, Belgium and Plovdiv, Bulgaria",unknown
-8601,Ormskirk,unknown
-8602,"Grand Rapids, Michigan USA",unknown
-8603,"Here, there, everywhere ",unknown
-8604,?????????? (??),unknown
-8605,In Nature,unknown
-8606,Gauteng Province,unknown
-8607,"Chilliwack, British Columbia",unknown
-8608,"Srinagar, Kashmir",unknown
-8609,01568 610 016,unknown
-8610,"Barrie, ON",unknown
-8611,CHEMBUR,unknown
-8612,AT&T Park,unknown
-8613,"Starke, Fl",unknown
-8614,The Islands ,unknown
-8615,Scotland. London. Los Angeles,unknown
-8616,SocialMedia RedCarpet #Influencer ? ? ?,unknown
-8617,"Gundagai, New South Wales",unknown
-8618,International Potato Center,unknown
-8619,"Gardendale, Alabama",unknown
-8620,police barack obalende lagos state,unknown
-8621,NYC and LA,unknown
+8595,ware,unknown_location
+8596,xuxu rolls?// olivia?// multi,unknown_location
+8597,Greater Chicago Area,United States
+8598,#VeteransAgainstTrump ,unknown_location
+8599,pattukkottai,India
+8600,"Brussels, Belgium and Plovdiv, Bulgaria",unknown_location
+8601,Ormskirk,United Kingdom
+8602,"Grand Rapids, Michigan USA",United States of America
+8603,"Here, there, everywhere ",unknown_location
+8604,?????????? (??),unknown_location
+8605,In Nature,unknown_location
+8606,Gauteng Province,South Africa
+8607,"Chilliwack, British Columbia",Canada
+8608,"Srinagar, Kashmir",India
+8609,01568 610 016,unknown_location
+8610,"Barrie, ON",Canada
+8611,CHEMBUR,India
+8612,AT&T Park,United States of America
+8613,"Starke, Fl",United States of America
+8614,The Islands ,unknown_location
+8615,Scotland. London. Los Angeles,unknown_location
+8616,SocialMedia RedCarpet #Influencer ? ? ?,unknown_location
+8617,"Gundagai, New South Wales",Australia
+8618,International Potato Center,unknown_location
+8619,"Gardendale, Alabama",United States of America
+8620,police barack obalende lagos state,Nigeria
+8621,NYC and LA,United States of America
 8622,"Kigali,Rwanda",Rwanda
 8623,"Fife Heights, WA",United States
 8624,#AustinTx & #NorfolkVa *U*S*A*,United States
@@ -8726,7 +8726,7 @@ But you can never leave!""",unknown_location
 8721,United Kingdom/Ireland,United Kingdom
 8722,Right behind you :),unknown_location
 8723,Tkaronto,Canada
-8724,"ÃÂT: 36.113451,-115.173098",unknown
+8724,"ÃÂÃÂT: 36.113451,-115.173098",United States of America
 8725,"Kalispell, MT",United States of America
 8726,7945,unknown_location
 8727,bts.atz. she/her,unknown_location
@@ -8758,7 +8758,7 @@ But you can never leave!""",unknown_location
 8753,"Welland, Ontario",Canada
 8754,Fort Lee VA ,United States
 8755,"Bruxelles, Belgium.",Belgium
-8756,dÃÂ¼nyal?,unknown
+8756,dÃÂÃÂ¼nyal?,unknown_location
 8757,"Lewiston/Auburn, Maine",United States
 8758,ny,United States
 8759,USA CANADA INTERNATIONAL,unknown_location
@@ -8785,7 +8785,7 @@ But you can never leave!""",unknown_location
 8780,"Chichester, West Sussex",United Kingdom
 8781,Wherever you find US military,unknown_location
 8782,America the Beautiful. Oregon.,United States
-8783,"Catalunya,EspaÃÂ±a,UE?ViaLÃÂ¡ctea!",unknown
+8783,"Catalunya,EspaÃÂÃÂ±a,UE?ViaLÃÂÃÂ¡ctea!",unknown_location
 8784,"Mankato, MN",United States
 8785,Scandinavia,unknown_location
 8786,"North Lincolnshire, England",United Kingdom
@@ -8826,7 +8826,7 @@ But you can never leave!""",unknown_location
 8821,Centurion | Taung ,South Africa
 8822,Audubon PA,United States of America
 8823,"N. Virginia / Washington, DC",United States of America
-8824,"ÃÂT: 39.89015,-86.120108",unknown
+8824,"ÃÂÃÂT: 39.89015,-86.120108",United States of America
 8825,"Essex, obviously",United Kingdom
 8826,"Polokwane, South Africa",South Africa
 8827,Global- Vegas + Silicon Valley,unknown_location
@@ -8882,7 +8882,7 @@ But you can never leave!""",unknown_location
 8877,"In land a bit, Wales",United Kingdom
 8878,"Staunton, Va.",United States
 8879,"Lingen, Biene",Germany
-8880,"Dorval, QuÃÂ©bec",unknown
+8880,"Dorval, QuÃÂÃÂ©bec",unknown
 8881,"College Park, Md.",United States
 8882,Amethi,India
 8883,Next door ,unknown_location
@@ -8912,11 +8912,11 @@ But you can never leave!""",unknown_location
 8907,Track #Unfollowers Panama City,Panama
 8908,"Verona, Veneto",Italy
 8909,"Hannibal, MO",United States of America
-8910,jewish ÃÂ bisexual ÃÂ she/her,unknown
+8910,jewish ÃÂÃÂ bisexual ÃÂÃÂ she/her,unknown_location
 8911,Lilliesleaf,unknown_location
 8912,Chicago Thug,unknown_location
 8913,cornwall,United Kingdom
-8914,Neustadt an der WeinstraÃÂe,unknown
+8914,Neustadt an der WeinstraÃÂÃÂe,unknown
 8915,USA/Europe,unknown_location
 8916,"New Freedom, PA",United States of America
 8917,"Lazio, Italia",Italy
@@ -8929,7 +8929,7 @@ But you can never leave!""",unknown_location
 8924,"Granada, Spain.",Spain
 8925,www.facebook.com/ApplebyTIC,unknown_location
 8926,Leamington Spa,United Kingdom
-8927,"ÃÂT: 44.29013,-78.48663",unknown
+8927,"ÃÂÃÂT: 44.29013,-78.48663",unknown_location
 8928,Canada ON,Canada
 8929,"What used 2 be California, USA",United States of America
 8930,brum / manc,United Kingdom
@@ -8983,7 +8983,7 @@ But you can never leave!""",unknown_location
 8978,Chicago Illinois,United States of America
 8979,CALIFORNIA,United States of America
 8980,UCLA | Daily Bruin,United States of America
-8981,"El Espino, La Chorrera, PanamÃÂ¡",unknown
+8981,"El Espino, La Chorrera, PanamÃÂÃÂ¡",unknown
 8982,Purely Stone Age,unknown_location
 8983,Norbury,United Kingdom of Great Britain and Northern Ireland
 8984,Ffestiniog.,United Kingdom of Great Britain and Northern Ireland
@@ -9011,7 +9011,7 @@ But you can never leave!""",unknown_location
 9006,Planet Earth (I think!),unknown_location
 9007,"Oxford, OH",United States of America
 9008,gadigal land ,Australia
-9009,Lima PerÃÂº,unknown
+9009,Lima PerÃÂÃÂº,unknown
 9010,SF & Global,unknown_location
 9011,"Saxony, Germany",Germany
 9012,"Stony Brook, NY",United States of America
@@ -9031,7 +9031,7 @@ But you can never leave!""",unknown_location
 9026,"Grande Prairie , AB",Canada
 9027,"Boksburg/Grahamstown, RSA ",South Africa
 9028,"Lenasia South, JHB",South Africa
-9029,"ÃÂT: -26.10139,28.056968",unknown
+9029,"ÃÂÃÂT: -26.10139,28.056968",South Africa
 9030,"Airmont, NY",United States of America
 9031,"Cobourg, Ontario",Canada
 9032,"Littleover, Derby UK",United Kingdom
@@ -9118,7 +9118,7 @@ But you can never leave!""",unknown_location
 9113,Her heart,unknown_location
 9114,"Red Bluff, CA",United States
 9115,"Meriden, CT",United States
-9116,byungchanÃÂs dimples,unknown
+9116,byungchanÃÂÃÂs dimples,unknown_location
 9117,Haarlem,Netherlands
 9118,"Gombe, Gombe state. Nigeria.",Nigeria
 9119,"Surrey, england ",United Kingdom
@@ -9133,10 +9133,10 @@ But you can never leave!""",unknown_location
 9128,"Coleraine, N. Ireland",United Kingdom
 9129,A bunker deep under Saskatoon ,unknown_location
 9130,"Frederick, South Dakota",United States
-9131,"MÃÂ¡laga, AndalucÃÂ­a",unknown
+9131,"MÃÂÃÂ¡laga, AndalucÃÂÃÂ­a",Spain
 9132,"Wichita, Kan.",United States
 9133,"London & Kent, UK",United Kingdom
-9134,Just past DaisyÃÂs green light,unknown
+9134,Just past DaisyÃÂÃÂs green light,unknown
 9135,"Quietly plotting on Bundjalung Land, Gold Coast, Qld, Australia",Australia
 9136,thornaby on tees,United Kingdom
 9137,Nairobi and Montreal,unknown_location
@@ -9210,13 +9210,13 @@ But you can never leave!""",unknown_location
 9205,"Cheraw, SC",United States of America
 9206,Global Citizen based in Austin,unknown_location
 9207,"Limerick, Ireland ??",Ireland
-9208,"NYC | ÃÂT: 41.668749,-72.954246",unknown
+9208,"NYC | ÃÂÃÂT: 41.668749,-72.954246",unknown_location
 9209,State of kuwait,Kuwait
 9210,Dallas/Metropolis/Worldwide,unknown_location
 9211,where else?,unknown_location
 9212,"Toronto, Canada, 5150",Canada
 9213,Mountains and Valleys of Life,unknown_location
-9214,TEJASÃÂNumunu/Coahuiltecan Land,unknown
+9214,TEJASÃÂÃÂNumunu/Coahuiltecan Land,unknown
 9215,"Bridport, Dorset",United Kingdom
 9216,MIA - MAD,unknown_location
 9217,"The North, UK",United Kingdom
@@ -9224,7 +9224,7 @@ But you can never leave!""",unknown_location
 9219,"Barpeta, India",India
 9220,"Grantchester, England",United Kingdom
 9221,"Kensington, Philadelphia",United States of America
-9222,Covid FÃÂ¼hrerbunker,unknown
+9222,Covid FÃÂÃÂ¼hrerbunker,unknown_location
 9223,Wantage,United Kingdom
 9224,Higher Place,unknown_location
 9225,Carrickmacross,Ireland
@@ -9276,7 +9276,7 @@ But you can never leave!""",unknown_location
 9271,Kenya??AFRICA,Kenya
 9272,Snack Food Cap of the World,unknown_location
 9273,"3052 Dubois Road, Ithaca, NY",United States of America
-9274,La FertÃÂ©-Bernard (France),unknown
+9274,La FertÃÂÃÂ©-Bernard (France),France
 9275,Birmingham/Midlands,United Kingdom
 9276,3rd planet in minor solar sys,unknown_location
 9277,Uyo,Nigeria
@@ -9298,7 +9298,7 @@ But you can never leave!""",unknown_location
 9293,"Eagle Mountain, UT",United States of America
 9294,"Melbourne, Australia   She/Her",Australia
 9295,Citizen of the Universe,unknown_location
-9296,"ÃÂT: 43.64624,-79.42516",unknown
+9296,"ÃÂÃÂT: 43.64624,-79.42516",Canada
 9297,"Lucan, Dublin Ireland",Ireland
 9298,Tatooine ?,unknown_location
 9299,amsterdam,Netherlands
@@ -9340,12 +9340,12 @@ But you can never leave!""",unknown_location
 9335,PANCHKULA,India
 9336,aries ? | aquarius? | libra ?J,unknown_location
 9337,Everywhere!!,unknown_location
-9338,"Mont-Tremblant, QuÃÂ©bec",unknown
+9338,"Mont-Tremblant, QuÃÂÃÂ©bec",unknown
 9339,Lower mainland Toronto,Canada
 9340,"Tri-Cities, WA",United States
 9341,"Wandsworth, London",United Kingdom
 9342,"Haverford, PA",United States of America
-9343,"#ÃÂ????, #???????",unknown
+9343,"#ÃÂÃÂ????, #???????",unknown
 9344,SW6 ,unknown_location
 9345,"Potatoville, ID",United States of America
 9346,406,unknown_location
@@ -9373,7 +9373,7 @@ But you can never leave!""",unknown_location
 9368,"Pakhtunkhwa, Pakistan??",Pakistan
 9369,Rahim Yar Khan,Pakistan
 9370,"Nanaimo, British Columbia",Canada
-9371,"ÃÂ©2020, Vancouver, Canada",unknown
+9371,"ÃÂÃÂ©2020, Vancouver, Canada",Canada
 9372,"Montreal, QC, Canada",Canada
 9373,a fish out of water,unknown_location
 9374,Glasgow / London / Baku,unknown_location
@@ -9430,7 +9430,7 @@ But you can never leave!""",unknown_location
 9425,Back in the USA,United States of America
 9426,Not in the EU.   ,unknown_location
 9427,Bosnia and Herzegovina,Bosnia and Herzegovina
-9428,twiceÃÂitzyÃÂmina's upper mole,unknown
+9428,twiceÃÂÃÂitzyÃÂÃÂmina's upper mole,unknown_location
 9429,The Best Coast ,unknown_location
 9430,"Concord, California",United States of America
 9431,"Live from Vancouver, BC ??",Canada
@@ -9503,7 +9503,7 @@ But you can never leave!""",unknown_location
 9498,"Madison, Wis.",United States of America
 9499,Out blowing up bridges. Leave a message.,unknown_location
 9500,"Marlow on Thames, UK",United Kingdom of Great Britain and Northern Ireland
-9501,"ÃÂT: -32.98346,27.29361",unknown
+9501,"ÃÂÃÂT: -32.98346,27.29361",South Africa
 9502,"BHU,VARANASI",Republic of India
 9503,West Norfolk,United Kingdom of Great Britain and Northern Ireland
 9504,"Rock Hill, SC, US, 29730",United States of America
@@ -9546,11 +9546,11 @@ But you can never leave!""",unknown_location
 9541,North Florida & South Georgia,United States of America
 9542,"Scotland, UK ",United Kingdom
 9543,"Bradwell Abbey, Milton Keynes",United Kingdom
-9544,"Distrito Federal, MÃÂ©xico",unknown
+9544,"Distrito Federal, MÃÂÃÂ©xico",United Mexican States
 9545,"Fayetteville, Arkansas",United States of America
 9546,Bellingham Lewisham ,unknown_location
 9547,Bandar Baru Bangi,Malaysia
-9548,ATX ÃÂ NYC ÃÂ SF ÃÂ ATL,unknown
+9548,ATX ÃÂÃÂ NYC ÃÂÃÂ SF ÃÂÃÂ ATL,unknown
 9549,Irgendwoland,unknown_location
 9550,"Buckingham, GB",United Kingdom
 9551,Central Coast California,United States of America
@@ -9560,7 +9560,7 @@ But you can never leave!""",unknown_location
 9555," Manila, Philippines ",Philippines
 9556,New Jersey ,United States of America
 9557,"Dukes County, MA",United States of America
-9558,DasmariÃÂ±as City,unknown
+9558,DasmariÃÂÃÂ±as City,Philippines
 9559,"norfolk, UK ",United Kingdom
 9560,Capetown,South Africa
 9561,StanWitGood,unknown_location
@@ -9580,7 +9580,7 @@ But you can never leave!""",unknown_location
 9575,in your head,unknown_location
 9576,"Houston, TX- Guanajuato, Mex",United States of America
 9577,Williamsport,United States of America
-9578,Falkirk Bairn in Ayrshire ,unknown
+9578,Falkirk Bairn in Ayrshire ,United Kingdom
 9579,?x ?p ? ?/2,unknown_location
 9580,buxton derbys uk,United Kingdom
 9581,"New York City, USA ??",United States of America
@@ -9597,14 +9597,14 @@ But you can never leave!""",unknown_location
 9592,"Bieber, CA",United States of America
 9593,Lincolnshire Showground,United Kingdom of Great Britain and Northern Ireland
 9594,The Land of Yore,unknown_location
-9595,No one cares ,unknown
+9595,No one cares ,unknown_location
 9596,"Carlisle, Cumbria",United Kingdom of Great Britain and Northern Ireland
 9597,"Port Hawkesbury, Nova Scotia",Canada
 9598,"Boston,MA",United States of America
 9599,"Hesse, Germany | Grayson",Germany
-9600,China ,unknown
+9600,China ,China
 9601,"321 State Hwy 8 Morrison, CO",United States of America
-9602,Suffolk ,unknown
+9602,Suffolk ,United Kingdom
 9603,San Diego & West Hollywood,United States of America
 9604,Kerryman ?? ?,unknown_location
 9605,"South Fulton, TN",United States of America
@@ -9612,12 +9612,12 @@ But you can never leave!""",unknown_location
 9607,Westlands,unknown_location
 9608,In The Arena,unknown_location
 9609,of the earth?,unknown_location
-9610,United  states of Africa  ?,unknown
+9610,United  states of Africa  ?,unknown_location
 9611,"Hisar, India",Republic of India
 9612,"Oadby, Leicester ??",United Kingdom of Great Britain and Northern Ireland
 9613,Hedge End,United Kingdom of Great Britain and Northern Ireland
 9614,US and A,United States of America
-9615,Vacaville Ca Detroit Mi ,unknown
+9615,Vacaville Ca Detroit Mi ,United States
 9616,:.midcoast.maine.:,United States of America
 9617,"Lawrence, Kansas",United States of America
 9618,E,unknown_location
@@ -9662,7 +9662,7 @@ But you can never leave!""",unknown_location
 9657,"Altus, Arkansas USA",United States
 9658,"Sindh, Pakistan karachi/dha  6",Pakistan
 9659,"The Heartland, USA",United States
-9660,"HTown, Texas USA ",unknown
+9660,"HTown, Texas USA ",United States
 9661,"Mughalistan, original India",unknown_location
 9662,Earth  (most of the time) ?,unknown_location
 9663,Koronadal,Philippines
@@ -9685,20 +9685,20 @@ But you can never leave!""",unknown_location
 9680,"Kuching,Malaysia",Malaysia
 9681,"Winnipeg, MB Canada",Canada
 9682,"Sebastopol, CA",United States
-9683," London, UK",unknown
+9683," London, UK",United Kingdom
 9684,"Cork, Ireland ",Ireland
 9685,"Atlantic Beach, FL",United States
 9686,"Jaleswar, Balasore, Odisha ",India
 9687,Aberdeenshire North,United Kingdom
 9688,The Black Country,United Kingdom
 9689,"Somewhere, but nowhere really.",unknown_location
-9690, ???? ?? ?? ?? ?? ,unknown
+9690, ???? ?? ?? ?? ?? ,unknown_location
 9691,Across Canada,Canada
 9692,Tampa Bay area,United States of America
 9693,"Watford, Hertfordshire",United Kingdom
 9694,"Paoli, Pennsylvania",United States of America
 9695,Ontario Canada,Canada
-9696,Toronto - Davenport ,unknown
+9696,Toronto - Davenport ,Canada
 9697,"Richards Bay & Durban, Bluff",South Africa
 9698,"San Pedro, Los Angeles",United States of America
 9699,"Bloomington, IL",United States of America
@@ -9706,9 +9706,9 @@ But you can never leave!""",unknown_location
 9701,T-Town,unknown_location
 9702,"Jersey, UK",United Kingdom
 9703,banglore,India
-9704,"ÃÂT: 42.754314,-73.726599",unknown
+9704,"ÃÂÃÂT: 42.754314,-73.726599",unknown
 9705,(D)MV,unknown_location
-9706,"?????, ???? & London,England ",unknown
+9706,"?????, ???? & London,England ",United Kingdom
 9707,SF BAY,United States of America
 9708,A Nightmare Republic,unknown_location
 9709,"DEBER, NLAMS",unknown_location
@@ -9723,7 +9723,7 @@ But you can never leave!""",unknown_location
 9718,"Soho, London, UK",United Kingdom
 9719,By the Seaside,unknown_location
 9720,OCONUS,unknown_location
-9721,Rhostyllen ,unknown
+9721,Rhostyllen ,United Kingdom
 9722,"Port Angeles, WA",United States of America
 9723,"Lancashire, Warwickshire, M6",United Kingdom
 9724,"Atwater Village, Los Angeles",United States of America
@@ -9735,9 +9735,9 @@ But you can never leave!""",unknown_location
 9730,I am a furry sorry,unknown_location
 9731,"Guangzhou City, China",China
 9732,"Drexel Hill, PA",United States of America
-9733,"Queensland, Australia ",unknown
+9733,"Queensland, Australia ",Australia
 9734,The Multiverse,unknown_location
-9735,Canada  eh,unknown
+9735,Canada  eh,Canada
 9736,milky way,unknown_location
 9737,"West Meath, Ireland",Ireland
 9738,Greater Manchester / Cheshire,United Kingdom
@@ -9762,7 +9762,7 @@ But you can never leave!""",unknown_location
 9757,Trans He/Him ,unknown_location
 9758,"Himachal Pradesh, India",India
 9759,SEC Country/ Houston,United States of America
-9760,49.8ÃÂ°N 339.3ÃÂ°E,unknown
+9760,49.8ÃÂÃÂ°N 339.3ÃÂÃÂ°E,unknown_location
 9761,"Limbdi, India",India
 9762,Buenos Aires,Argentina
 9763,"The Mountains, Ireland.",Ireland
@@ -9772,7 +9772,7 @@ But you can never leave!""",unknown_location
 9767,"Basildon, Essex",United Kingdom
 9768,"Tuscaloosa County, Alabama",United States of America
 9769,"Tarrytown, NY, USA",United States of America
-9770,US ÃÂEuropeÃÂMEA-AsiaPacific,unknown
+9770,US ÃÂÃÂEuropeÃÂÃÂMEA-AsiaPacific,unknown_location
 9771,"Its a scary place, my head. ",unknown_location
 9772,Out Here,unknown_location
 9773,Commission me fools,unknown_location
@@ -9795,7 +9795,7 @@ But you can never leave!""",unknown_location
 9790,"San Jose, US",United States of America
 9791,KAMPALA,Uganda
 9792,"POB 3531 Sioux City, IA 51102",United States of America
-9793,"ÃÂT: 50.109958,-120.744153",unknown
+9793,"ÃÂÃÂT: 50.109958,-120.744153",Canada
 9794,"Wabasso, Florida",United States of America
 9795,Missourah,United States of America
 9796,"Corio, Geelong",Australia
@@ -9831,7 +9831,7 @@ But you can never leave!""",unknown_location
 9826,Nairobi.Kenya,Kenya
 9827,"Texas, of course!            ",United States of America
 9828,"Sturbridge, Massachusetts ",United States of America
-9829,"DMs open, in Linux. ÃÂ He/him",unknown
+9829,"DMs open, in Linux. ÃÂÃÂ He/him",unknown
 9830,North Wales UK,United Kingdom
 9831,ot5 ,unknown_location
 9832,Australia Qld ,Australia
@@ -9842,12 +9842,12 @@ But you can never leave!""",unknown_location
 9837,"Chikhali, Haveli",India
 9838,"New Delhi, Agra",India
 9839,"Comber, Northern Ireland",United Kingdom
-9840,"ÃÂT: 36.319708,-82.363649",unknown
+9840,"ÃÂÃÂT: 36.319708,-82.363649",unknown
 9841,Body - sofa; Mind - the beach!,unknown_location
 9842,"Bedford, UK",United Kingdom
 9843,"Highlands Ranch, Colorado",United States of America
 9844,she/her/hers,unknown_location
-9845,ParisÃÂLondonÃÂMadridÃÂCape Town,unknown
+9845,ParisÃÂÃÂLondonÃÂÃÂMadridÃÂÃÂCape Town,unknown
 9846,"Hidden Woodlands Village, TX",United States of America
 9847,"Woodstock, GA",United States of America
 9848,"Cardiff Bay, Wales",United Kingdom
@@ -9867,7 +9867,7 @@ But you can never leave!""",unknown_location
 9862,"Greater Hobby Area, Houston",United States of America
 9863,"England, UK",United Kingdom
 9864,Somewhere FUN!,unknown_location
-9865,PrishtinÃÂ«,unknown
+9865,PrishtinÃÂÃÂ«,unknown
 9866,"Westminster, London, UK",United Kingdom
 9867,NJ / NYC / USA,United States of America
 9868,"Elmira, ON, Canada",Canada
@@ -9961,14 +9961,14 @@ But you can never leave!""",unknown_location
 9956,Perth WA ,Australia
 9957,"Doha, Qatar.",Qatar
 9958,?? European Union ??,unknown_location
-9959,GeloÃÂs,unknown
+9959,GeloÃÂÃÂs,unknown
 9960,"Prince Edward Island, Canada",Canada
 9961,Llandaff,United Kingdom
 9962,New Account ,unknown_location
 9963,kampala,Uganda
 9964, Malaysia,Malaysia
 9965,right behind you... boo!,unknown_location
-9966,Australia ÃÂ· New Zealand ÃÂ· Online,unknown
+9966,Australia ÃÂÃÂ· New Zealand ÃÂÃÂ· Online,unknown
 9967,"PLANT CITY, FLORIDA",United States
 9968,Birbdom,unknown_location
 9969,Manila PH,Philippines
@@ -9992,8 +9992,8 @@ But you can never leave!""",unknown_location
 9987,London uk,United Kingdom
 9988,"Point Pleasant Beach, NJ",United States
 9989,WIgan,unknown_location
-9990,LeÃÂ³n ,unknown
-9991,COVID-19: EarthÃÂs Reset,unknown
+9990,LeÃÂÃÂ³n ,unknown
+9991,COVID-19: EarthÃÂÃÂs Reset,unknown
 9992,"Lightwater, South East",United Kingdom
 9993,"Sout,Arewa,West,Gabas, NG.",Nigeria
 9994,"Barcelona, Finland in summer",Spain
@@ -10007,7 +10007,7 @@ But you can never leave!""",unknown_location
 10002,"Welwyn Garden City, East",United Kingdom
 10003,"South Lake Tahoe, CA",United States of America
 10004,"Newquay, Cornwall",United Kingdom
-10005,EspaÃÂ±a / USA,unknown
+10005,EspaÃÂÃÂ±a / USA,unknown
 10006,"Chalford, Glos",United Kingdom
 10007,"Bay area, California ",United States of America
 10008,"Ingleby Barwick, England",United Kingdom
@@ -10044,7 +10044,7 @@ But you can never leave!""",unknown_location
 10039,Bangalore India,India
 10040,"Providence, Rhode Island",United States of America
 10041,Welland.Ontario.Canada.,Canada
-10042,Regina GeorgeÃÂs crotch ,unknown
+10042,Regina GeorgeÃÂÃÂs crotch ,unknown
 10043,"Lebanon, PA",United States of America
 10044,Myrtle Beach South Carolina,United States of America
 10045,"Lindenhurst, NY",United States of America
@@ -10079,7 +10079,7 @@ But you can never leave!""",unknown_location
 10074,"Austell, GA",United States of America
 10075,"iTECHSERIES Pvt. Ltd. Pune, India",India
 10076, TR?MPLICAN Bay State Prison,unknown_location
-10077,"DÃÂ¹n Phris, Alba",unknown
+10077,"DÃÂÃÂ¹n Phris, Alba",unknown
 10078,DC - Suburbs,United States of America
 10079,Communist Police State UK,United Kingdom
 10080,"Dallas,Texas ",United States of America
@@ -10093,7 +10093,7 @@ But you can never leave!""",unknown_location
 10088,Paralelo 17 Norte,unknown_location
 10089,The Hague,Netherlands
 10090,"No Name, CO",United States of America
-10091,Murcia y CastellÃÂ³n. EspaÃÂ±a.,unknown
+10091,Murcia y CastellÃÂÃÂ³n. EspaÃÂÃÂ±a.,unknown
 10092,TaureanVille,unknown_location
 10093,Hyderabad/Vijayawada,India
 10094,"In A Galaxy Far, Far Away...",unknown_location
@@ -10109,7 +10109,7 @@ But you can never leave!""",unknown_location
 10104,"CO, USA",United States of America
 10105,Northampton,United Kingdom
 10106,"In this chair, with my laptop,",unknown_location
-10107,MTL ÃÂ,unknown
+10107,MTL ÃÂÃÂ,unknown
 10108,Fort walton beach FL,United States of America
 10109,UK and Ireland,unknown_location
 10110,"AlgonquinAnishinaabeg, Unceded",unknown_location
@@ -10117,30 +10117,30 @@ But you can never leave!""",unknown_location
 10112,"Lagos, Nigeria.",Nigeria
 10113,LA/OC/IE - Southern California,United States of America
 10114,"Gaithersburg, Md",United States of America
-10115,Dream world ,unknown
+10115,Dream world ,unknown_location
 10116,Deeside,United Kingdom
 10117,"Tbilisi,Georgia",Georgia
 10118,?? ????,unknown_location
 10119,"Trump Tower, NYC",United States of America
 10120,"Harvest, AL",United States of America
-10121,"Toronto, Ontario, Canada?? ",unknown
+10121,"Toronto, Ontario, Canada?? ",Canada
 10122,Streets of Kenny,unknown_location
 10123,Runestone,unknown_location
 10124,"San Diego, California, US",United States of America
 10125,"Hoffman Estates, IL",United States of America
-10126,"London as yet UK, Europe",unknown
-10127,"Jonesport, Me; Sea Cliff, NY",unknown
-10128,"Atlanta, Ga",unknown
-10129,"Doral, FL",unknown
-10130,Walking down the warwick road,unknown
-10131,"Rand, Texas",unknown
-10132,"Lake Forest, IL/Halas Hall",unknown
+10126,"London as yet UK, Europe",United Kingdom
+10127,"Jonesport, Me; Sea Cliff, NY",United States
+10128,"Atlanta, Ga",United States
+10129,"Doral, FL",United States
+10130,Walking down the warwick road,unknown_location
+10131,"Rand, Texas",United States
+10132,"Lake Forest, IL/Halas Hall",United States
 10133,"Mountian View, MO ",unknown
 10134,Great State of Texas,unknown
-10135," ÃÂ¯\_(?)_/ÃÂ¯  NYC, NY USA",unknown
+10135," ÃÂÃÂ¯\_(?)_/ÃÂÃÂ¯  NYC, NY USA",unknown
 10136,"Quetta, Balochistan ",unknown
 10137,"2000 Tulane Avenue, 4th Floor ",unknown
-10138,ETERNAL BLISS,unknown
+10138,ETERNAL BLISS,unknown_location
 10139,Cambridgeshire/Suffolk,United Kingdom
 10140,??? ??????? ?????? ?? ??? ????,unknown_location
 10141,Savannah,United States of America
@@ -10154,7 +10154,7 @@ But you can never leave!""",unknown_location
 10149,"Howell, MI",United States
 10150,PA. USA,United States
 10151,"has passport, will travel",unknown_location
-10152,"48.4222ÃÂ° N, 123.3657ÃÂ° W",unknown
+10152,"48.4222ÃÂÃÂ° N, 123.3657ÃÂÃÂ° W",unknown
 10153,"Bridport, England",United Kingdom
 10154,Arendelle,unknown_location
 10155,470 miles East of London,unknown_location
@@ -10179,7 +10179,7 @@ But you can never leave!""",unknown_location
 10174,https://gorollick.com/,unknown_location
 10175,"Stakeford, Northumberand.",United Kingdom
 10176,"Attleboro, MA",United States
-10177,ÃÂBerta ,unknown
+10177,ÃÂÃÂBerta ,unknown
 10178,"Sheffield, UK, Europe, Earth",United Kingdom
 10179,"Arlington, Va.",United States
 10180,space? the Chinese? Russians??,unknown_location
@@ -10201,7 +10201,7 @@ But you can never leave!""",unknown_location
 10196,"Bridgend, Wales, E.U. ",United Kingdom
 10197,Minneapolis/St. Paul,United States of America
 10198,"Whitley Bay, England",United Kingdom
-10199,"El Mundo, EspaÃÂ±a",unknown
+10199,"El Mundo, EspaÃÂÃÂ±a",unknown
 10200,Lincolnshire UK,United Kingdom
 10201,"9850 Westpoint Dr Indy, IN",United States of America
 10202,#PrimeRate,unknown_location
@@ -10246,11 +10246,11 @@ But you can never leave!""",unknown_location
 10240,INDIAN WITHOUT BORDERS.,unknown_location
 10241,South Jersey,United States of America
 10242,"Guwahati, Assam",India
-10243,Ayrshire ,unknown
+10243,Ayrshire ,United Kingdom
 10244,"Kernersville, NC",United States of America
-10245,ÃÂhell is other peopleÃÂ,unknown
+10245,ÃÂÃÂhell is other peopleÃÂÃÂ,unknown
 10246,"Clunes, Clunes (Vic.)",Australia
-10247,scotland ,unknown
+10247,scotland ,United Kingdom
 10248,"Boston, MA HQ",United States of America
 10249,Uganda????,Uganda
 10250,"UK, India",unknown_location
@@ -10272,7 +10272,7 @@ Visualizing Protest in the City https://www.springer.com/gp/book/9789812872357",
 10265,"Benicia, California, USA",United States
 10266,"Montgomery County, PA",United States
 10267,????? ? ???? raised in Canada ,Canada
-10268,"HellÃÂs Kitchen, NYC",unknown
+10268,"HellÃÂÃÂs Kitchen, NYC",unknown
 10269,"Cottleville, MO",United States
 10270,"Grand Prairie, TX",United States
 10271,Brighton ,United Kingdom
@@ -10288,7 +10288,7 @@ Visualizing Protest in the City https://www.springer.com/gp/book/9789812872357",
 10281,Ankara??||,Turkey
 10282,Solihull UK,United Kingdom
 10283,"Tara Hills, CA",United States
-10284,"ÃÂT: 43.44651,-80.179985",unknown
+10284,"ÃÂÃÂT: 43.44651,-80.179985",unknown
 10285,"Maldegem, Belgium ",Belgium
 10286,"Ventura, CA",United States
 10287,My couch with my ? and ?,unknown_location
@@ -10309,7 +10309,7 @@ Visualizing Protest in the City https://www.springer.com/gp/book/9789812872357",
 10302,"Little London, England",United Kingdom
 10303,Amsterdam ,Netherlands
 10304,"Sault Ste Marie, Ontario",Canada
-10305,kurtkÃÂ¶y,unknown
+10305,kurtkÃÂÃÂ¶y,unknown
 10306,"Napier, New Zealand",New Zealand
 10307,THE VOID ? c.1981 ? 18+ NSFW,unknown_location
 10308,cocktail bar,unknown_location
@@ -10334,7 +10334,7 @@ Visualizing Protest in the City https://www.springer.com/gp/book/9789812872357",
 10327,"Duck, NC",United States of America
 10328,"Lewes, East Sussex",United Kingdom
 10329,"Los Altos Hills, CA",United States of America
-10330,N 34ÃÂ°1' 0'' / W 118ÃÂ°24' 0'',unknown
+10330,N 34ÃÂÃÂ°1' 0'' / W 118ÃÂÃÂ°24' 0'',unknown
 10331,"Warwickshire via Kent, UK",United Kingdom
 10332,Cork. Ireland,Ireland
 10333,"N Yorkshire, Peckham & beyond",United Kingdom
@@ -10364,24 +10364,24 @@ Visualizing Protest in the City https://www.springer.com/gp/book/9789812872357",
 10357,"Lynn, MA / FN42ml",United States of America
 10358,#CHS ? #France ? #?? ?#DC,unknown_location
 10359,Aurora,unknown_location
-10360,London and online ,unknown
-10361,World Wide ,unknown
+10360,London and online ,United Kingdom
+10361,World Wide ,unknown_location
 10362,Paris - New York - Los Angeles,unknown_location
 10363,Where the Sidewalk Ends...,unknown_location
-10364,"ÃÂT: 10.670984,-61.527106",unknown
+10364,"ÃÂÃÂT: 10.670984,-61.527106",unknown
 10365,"New Braunfels, TX",United States of America
 10366,"St. Lawrence County, NY",United States of America
 10367,"Delft/Amsterdam, NL",Netherlands
 10368,Inner Portion of Outer Space,unknown_location
 10369,"Bhadrak, India",India
 10370,Connecticut/New York,United States of America
-10371,"Stamford, UK ",unknown
+10371,"Stamford, UK ",United Kingdom
 10372,"Poipu, HI",United States of America
 10373,"Claremont, NH",United States of America
 10374,"St.Louis, MO",United States of America
 10375,"Seattle, USA",United States of America
 10376,????????? ???????            ,unknown
-10377,Don't worry I will find you ,unknown
+10377,Don't worry I will find you ,unknown_location
 10378,#ToryDystopia?#GTTO#JC4Ever?,unknown_location
 10379,MilkyWay,unknown_location
 10380,"Urbana, IL",United States of America
@@ -10398,7 +10398,7 @@ Visualizing Protest in the City https://www.springer.com/gp/book/9789812872357",
 10391,UnknownGalaxy&SynapseLand*,unknown_location
 10392,"National Harbor, MD",United States of America
 10393,Ghana West Africa,Ghana
-10394,"KrakÃÂ³w, Polska",unknown
+10394,"KrakÃÂÃÂ³w, Polska",unknown
 10395,"Long Beach, NY",United States of America
 10396,"Manchester, MO",United States of America
 10397,"Danville, CA",United States of America
@@ -10410,7 +10410,7 @@ Visualizing Protest in the City https://www.springer.com/gp/book/9789812872357",
 10403,LONDON ENGLAND,United Kingdom
 10404,The rabbits den,unknown_location
 10405,Tynemouth,United Kingdom
-10406,Clinton Township Michigan ,unknown
+10406,Clinton Township Michigan ,United States
 10407,"Cheshire UK, then FL",United Kingdom
 10408,"Rajputana, India",India
 10409,Locations across Canada,Canada
@@ -10429,12 +10429,12 @@ Visualizing Protest in the City https://www.springer.com/gp/book/9789812872357",
 10422,La nave del olvido,unknown_location
 10423,"Mendon, MA",United States of America
 10424,"New Windsor, NY",United States of America
-10425,Kitchener Waterloo ,unknown
-10426,"East Kilbride, Scotland, UK ",unknown
+10425,Kitchener Waterloo ,Canada
+10426,"East Kilbride, Scotland, UK ",United Kingdom
 10427,Miamisburg,United States of America
 10428,"Tigard, OR",United States of America
 10429,"Leicester, United Kingdom",United Kingdom
-10430,"Long Beach, CA ",unknown
+10430,"Long Beach, CA ",United States
 10431,"LaCygne, KS",United States of America
 10432,Nick Gurr Street ,unknown
 10433,"Coronado, CA",United States of America
@@ -10442,7 +10442,7 @@ Visualizing Protest in the City https://www.springer.com/gp/book/9789812872357",
 10435,LA | NY,United States of America
 10436,Bharatvarsh,India
 10437,"London, England, Born July 7th",United Kingdom
-10438,BishopÃÂs Stortford,unknown
+10438,BishopÃÂÃÂs Stortford,unknown
 10439,The Continental Hotel New York City,United States of America
 10440,Latur & New Delhi,India
 10441,Perennial Mobile,unknown_location
@@ -10476,12 +10476,12 @@ Visualizing Protest in the City https://www.springer.com/gp/book/9789812872357",
 10469,Dragonstone ,unknown_location
 10470,The Basement,unknown_location
 10471," Wales, UK ",unknown
-10472,"MurÃÂ§a, Portugal",unknown
-10473,AÃÂ§ores,unknown
+10472,"MurÃÂÃÂ§a, Portugal",unknown
+10473,AÃÂÃÂ§ores,unknown
 10474,California Republic,United States
 10475,loving life in Malibu!! ,United States
 10476,Bromsgrove,United Kingdom
-10477,"ÃÂT: 44.990981,-93.223279",unknown
+10477,"ÃÂÃÂT: 44.990981,-93.223279",unknown
 10478,Free-range Californian.,United States
 10479,"Ballard, Seattle, WA",United States
 10480, in the south west of England,unknown
@@ -10513,7 +10513,7 @@ Visualizing Protest in the City https://www.springer.com/gp/book/9789812872357",
 10506,"Chicago, San Fran., New York",United States of America
 10507,"Mumbai,India",India
 10508,Greater Manchester,United Kingdom
-10509,"ÃÂT: 38.908339,-77.040837",unknown
+10509,"ÃÂÃÂT: 38.908339,-77.040837",unknown
 10510,St.Louis Missouri,United States of America
 10511,London/Dorking,United Kingdom
 10512,London/South East,United Kingdom
@@ -10534,7 +10534,7 @@ Visualizing Protest in the City https://www.springer.com/gp/book/9789812872357",
 10527,"Pittsburg, Texas",United States of America
 10528,"Rockville, MD, US, 20850",United States of America
 10529,Capital City,unknown_location
-10530,kampala ,unknown
+10530,kampala ,Uganda
 10531,"Edmonton, Alberta, Canada",Canada
 10532,"Henway Hills, Oregon",unknown_location
 10533,"iPhone: 34.092678,-118.280586",United States of America
@@ -10571,29 +10571,29 @@ Visualizing Protest in the City https://www.springer.com/gp/book/9789812872357",
 10564,"Bridgewater, MA",United States of America
 10565,"Long Beach, Calif., USA",United States of America
 10566,purgatory,unknown_location
-10567,15ÃÂ°47'S	47ÃÂ°55'W,unknown
+10567,15ÃÂÃÂ°47'S	47ÃÂÃÂ°55'W,unknown
 10568,belgium and the virtual world,Belgium
 10569,Edinburgh and Moraira,unknown_location
-10570,China. The Netherlands. ,unknown
-10571,Western Civilization,unknown
-10572,"Heavener, OK",unknown
-10573,"Twin Cities, MN",unknown
-10574,"East Fishkill, NY",unknown
-10575,I'M HERE TENNESSEE ,unknown
-10576,DC + Silicon Valley + LA,unknown
-10577,"Plymouth, MN",unknown
-10578,"Paramus, NJ",unknown
-10579,"Liverpool, UK, Europe",unknown
-10580,i love you so much || he/him,unknown
-10581,NJ raised | FL livinÃÂ,unknown
-10582,NY Metro,unknown
-10583,"Sarasota, FL Born in Nottm, UK",unknown
-10584,The Rd from Monroe to Angeline,unknown
-10585,"Grays, England",unknown
-10586,"Reading, PA",unknown
-10587,MIA - MCO/BOS - PVD,unknown
-10588,"Reisterstown, MD",unknown
-10589,"Farmington, NM",unknown
+10570,China. The Netherlands. ,unknown_location
+10571,Western Civilization,unknown_location
+10572,"Heavener, OK",United States
+10573,"Twin Cities, MN",United States
+10574,"East Fishkill, NY",United States
+10575,I'M HERE TENNESSEE ,United States of America
+10576,DC + Silicon Valley + LA,United States
+10577,"Plymouth, MN",United States
+10578,"Paramus, NJ",United States
+10579,"Liverpool, UK, Europe",United Kingdom
+10580,i love you so much || he/him,unknown_location
+10581,NJ raised | FL livinÃÂÃÂ,unknown
+10582,NY Metro,United States
+10583,"Sarasota, FL Born in Nottm, UK",United States
+10584,The Rd from Monroe to Angeline,unknown_location
+10585,"Grays, England",United Kingdom
+10586,"Reading, PA",United States
+10587,MIA - MCO/BOS - PVD,United States
+10588,"Reisterstown, MD",United States
+10589,"Farmington, NM",United States
 10590,"Burnham Deepdale, Norfolk, UK",United Kingdom
 10591,"Schweinfurt, Bayern",Germany
 10592,blablabla Canada Eh?,Canada
@@ -10608,7 +10608,7 @@ Visualizing Protest in the City https://www.springer.com/gp/book/9789812872357",
 10601,"Central Bedeque, Prince Edward",Canada
 10602,"Passaic, NJ",United States
 10603,"Marlborough, MA    ",United States
-10604,LDN ÃÂ NYC,unknown
+10604,LDN ÃÂÃÂ NYC,unknown
 10605,"nairobi ,kenya.",Kenya
 10606,LA/OC  - Berkeley/SF,United States
 10607,Shangri-La,unknown_location
@@ -10640,41 +10640,41 @@ Visualizing Protest in the City https://www.springer.com/gp/book/9789812872357",
 10633,"Miramar, FL",United States
 10634,south carolina,United States
 10635,Citizen of the world,unknown_location
-10636,"MÃÂ©xico, D.F",unknown
+10636,"MÃÂÃÂ©xico, D.F",unknown
 10637,"iPhone: 0.000000,0.000000",unknown_location
 10638,?????? ????.,unknown_location
 10639,Hell.,unknown_location
-10640,"Scouseland, England",unknown
-10641,Playstation Network,unknown
-10642,"Short Hills, NJ",unknown
-10643,"Littlehampton, England",unknown
-10644,Up in the air...,unknown
-10645,concert,unknown
-10646,"South Africa, Johannesburg ",unknown
-10647,Wisconsin & U.P. Michigan,unknown
-10648,MIAMI / LA,unknown
-10649,"Partsunknown, Pennsylvania",unknown
-10650,(???),unknown
-10651,Bo'ness. West Lothian.Scotland,unknown
-10652,Dab City Bay Area,unknown
-10653,"Asturias, Spain / London ",unknown
-10654,New York  United  States,unknown
-10655,"Greenfield, IN",unknown
-10656,un village ,unknown
-10657,"Louisville, KY, US, 40203",unknown
-10658,Kensington Palace,unknown
-10659, kilkenny. ,unknown
-10660,"ÃÂT: 22.561424,88.359249",unknown
-10661,Amman Jordan,unknown
-10662,lurking in your head,unknown
-10663,"Richmond, BC",unknown
-10664,Council Communism Homebase,unknown
-10665,Radiant Insights,unknown
-10666,Phantom of the Opera,unknown
-10667,...,unknown
-10668,probably in bed,unknown
-10669,"Bartley Green, Birmingham",unknown
-10670,"HKG, TPE, ULN, or 35,000 ft ",unknown
+10640,"Scouseland, England",United Kingdom
+10641,Playstation Network,unknown_location
+10642,"Short Hills, NJ",United States
+10643,"Littlehampton, England",United Kingdom
+10644,Up in the air...,unknown_location
+10645,concert,unknown_location
+10646,"South Africa, Johannesburg ",South Africa
+10647,Wisconsin & U.P. Michigan,United States
+10648,MIAMI / LA,United States
+10649,"Partsunknown, Pennsylvania",United States
+10650,(???),unknown_location
+10651,Bo'ness. West Lothian.Scotland,United Kingdom
+10652,Dab City Bay Area,United States
+10653,"Asturias, Spain / London ",Spain
+10654,New York  United  States,United States
+10655,"Greenfield, IN",United States
+10656,un village ,unknown_location
+10657,"Louisville, KY, US, 40203",United States
+10658,Kensington Palace,United Kingdom
+10659, kilkenny. ,Ireland
+10660,"ÃÂÃÂT: 22.561424,88.359249",unknown
+10661,Amman Jordan,Jordan
+10662,lurking in your head,unknown_location
+10663,"Richmond, BC",Canada
+10664,Council Communism Homebase,unknown_location
+10665,Radiant Insights,unknown_location
+10666,Phantom of the Opera,unknown_location
+10667,...,unknown_location
+10668,probably in bed,unknown_location
+10669,"Bartley Green, Birmingham",United Kingdom
+10670,"HKG, TPE, ULN, or 35,000 ft ",unknown_location
 10671,Sussex. UK,United Kingdom
 10672,Malcomines,unknown_location
 10673,"Poplar, London",United Kingdom
@@ -10688,7 +10688,7 @@ Visualizing Protest in the City https://www.springer.com/gp/book/9789812872357",
 10681,"Ha'il, Kingdom of Saudi Arabia",Saudi Arabia
 10682,Gaborone Botswana,Botswana
 10683,By the Lake Oakland,unknown_location
-10684,UR MOMÃÂZ ,unknown
+10684,UR MOMÃÂÃÂZ ,unknown
 10685,Lots of different places,unknown_location
 10686,Southrepps,United Kingdom
 10687,"Uyo, Nigeria",Nigeria
@@ -10698,7 +10698,7 @@ Visualizing Protest in the City https://www.springer.com/gp/book/9789812872357",
 10691,New Amsterdam and old.,unknown_location
 10692,Fitzroy + Prahran,Australia
 10693,"NYC, DC, London, Hong Kong",unknown_location
-10694,Colombia/EspaÃÂ±a,unknown
+10694,Colombia/EspaÃÂÃÂ±a,unknown
 10695,Earth?,unknown_location
 10696,"Ankeny, Iowa",United States of America
 10697,Absolutely T for Tremendous,unknown_location
@@ -10731,7 +10731,7 @@ Visualizing Protest in the City https://www.springer.com/gp/book/9789812872357",
 10724,Woodbury,unknown_location
 10725,"Richmond, British Columbia",Canada
 10726,"Morris County NJ, USA",United States of America
-10727,"ÃÂT: 34.061171,-118.236258",unknown
+10727,"ÃÂÃÂT: 34.061171,-118.236258",unknown
 10728,Hunderby,unknown_location
 10729,Wurundjeri land,unknown_location
 10730,"London, EU",unknown_location
@@ -10768,7 +10768,7 @@ Visualizing Protest in the City https://www.springer.com/gp/book/9789812872357",
 10761,Dirty $outh,unknown_location
 10762,Saint Lucia,Saint Lucia
 10763,"Western NC, USA",United States of America
-10764,MontrÃÂ©al QuÃÂ©bec Canada,unknown
+10764,MontrÃÂÃÂ©al QuÃÂÃÂ©bec Canada,unknown
 10765,image | Molecular model,unknown_location
 10766,Edington. Wiltshire. UK.,United Kingdom
 10767,Eastern WA,United States of America
@@ -10792,8 +10792,8 @@ Visualizing Protest in the City https://www.springer.com/gp/book/9789812872357",
 10785,The District,unknown_location
 10786,"Avusturya, Viyana",Austria
 10787,District of Columbia,United States of America
-10788,"ÃÂT: -6.202795,106.828593",unknown
-10789,AndalucÃÂ­a,unknown
+10788,"ÃÂÃÂT: -6.202795,106.828593",unknown
+10789,AndalucÃÂÃÂ­a,unknown
 10790,Can/USA ,unknown_location
 10791,"Jersey Born, Jersey Raised",unknown_location
 10792,"Sonoma County, CA",United States
@@ -10820,13 +10820,13 @@ Visualizing Protest in the City https://www.springer.com/gp/book/9789812872357",
 10813,"Aurora, IL",United States
 10814,"Westport, CT/Weston, VT",United States
 10815,Northampton | High Wycombe,United Kingdom
-10816,RÃÂ©publique DÃÂ©mocratique Du Congo,unknown
+10816,RÃÂÃÂ©publique DÃÂÃÂ©mocratique Du Congo,unknown
 10817,"Londinium, Britannia",United Kingdom
 10818,"Jaora, India",India
 10819,Hindustan ,India
 10820,+44 7736 373 543,unknown_location
 10821,gravyard  ,unknown_location
-10822,I live in SorosÃÂ pool house. ,unknown
+10822,I live in SorosÃÂÃÂ pool house. ,unknown
 10823,Los Angeles #DTLA,United States
 10824,The Heart of Africa,unknown_location
 10825,D-Town,unknown_location
@@ -10839,15 +10839,15 @@ Visualizing Protest in the City https://www.springer.com/gp/book/9789812872357",
 10832,"St Louis, MO USA",United States
 10833,"SE6, London",United Kingdom
 10834,Off road these days...,unknown_location
-10835,"43.6766ÃÂ° N, 79.7848ÃÂ° W",unknown
+10835,"43.6766ÃÂÃÂ° N, 79.7848ÃÂÃÂ° W",unknown
 10836,"Tolone, Francia",France
 10837,"Worcester, UK",United Kingdom
 10838,"Nanaimo, BC, Canada",Canada
-10839,"ÃÂT: 36.758292,-76.269668",unknown
+10839,"ÃÂÃÂT: 36.758292,-76.269668",unknown
 10840,Wayne Manor,unknown_location
-10841,BOS ÃÂ NYC ÃÂ DC ÃÂ JHB,unknown
-10842,TaÃÂ¯wan,unknown
-10843,"AtizapÃÂ¡n de Zaragoza, MÃÂ©xico",unknown
+10841,BOS ÃÂÃÂ NYC ÃÂÃÂ DC ÃÂÃÂ JHB,unknown
+10842,TaÃÂÃÂ¯wan,unknown
+10843,"AtizapÃÂÃÂ¡n de Zaragoza, MÃÂÃÂ©xico",unknown
 10844,"Manchester, Europe",unknown_location
 10845,Virgo Supercluster,unknown_location
 10846,"Butuan City, Caraga",Philippines
@@ -10884,18 +10884,18 @@ Visualizing Protest in the City https://www.springer.com/gp/book/9789812872357",
 10876,Under The Boardwalk,unknown_location
 10877,Mentally???????,unknown_location
 10878,"Here, There, and Everywhere",unknown_location
-10879,sÃÂ­ / her ,unknown
+10879,sÃÂÃÂ­ / her ,unknown
 10880,"Jonesboro, Arkansas",United States of America
 10881,Naga City 4400,Philippines
 10882,"Jakarta, Indonesia ",Indonesia
 10883,Solitude Park,unknown_location
 10884,The Carvery or The Tavern ,unknown_location
 10885,"Long Grove, IL",United States of America
-10886,BogotÃÂ¡ D.C.,unknown
+10886,BogotÃÂÃÂ¡ D.C.,unknown
 10887,Views don't reflect employers,unknown_location
 10888,"Halifax, Nova Scotia ??",Canada
 10889,"Lake Winnipesaukee, NH",United States of America
-10890,"x?m??k??y??m, S?wx?wÃÂº7mesh & S?l?ilw?ta??",unknown
+10890,"x?m??k??y??m, S?wx?wÃÂÃÂº7mesh & S?l?ilw?ta??",unknown
 10891,Virtual Nomad,unknown_location
 10892,hampshire,unknown_location
 10893,Charm City,unknown_location
@@ -10925,7 +10925,7 @@ Visualizing Protest in the City https://www.springer.com/gp/book/9789812872357",
 10917,pdx&sea,unknown_location
 10918,Johnny depp is a ?,unknown_location
 10919,"???????? ?????????, ?????",unknown_location
-10920,"Leuven, BelgiÃÂ«",unknown
+10920,"Leuven, BelgiÃÂÃÂ«",unknown
 10921,Northumberland ,United Kingdom
 10922,"Tamworth, Staffordshire",United Kingdom
 10923,Santa Barbara & Denver,United States of America
@@ -10977,7 +10977,7 @@ Visualizing Protest in the City https://www.springer.com/gp/book/9789812872357",
 10969,In Christ,unknown_location
 10970,"Innerkip, Ontario",Canada
 10971,"USA, WI ",United States
-10972,ici et lÃÂ ,unknown
+10972,ici et lÃÂÃÂ ,unknown
 10973,Los Angeles                   ,United States
 10974,"Marikina City, Philippines",Philippines
 10975,Buckeye State,United States
@@ -11005,11 +11005,11 @@ Visualizing Protest in the City https://www.springer.com/gp/book/9789812872357",
 10997,Louisiana State University,United States of America
 10998,"Keremeos, British Columbia",Canada
 10999,"Taranaki, New Zealand",New Zealand
-11000,"ÃÂT: 43.65394,-79.418784",unknown
+11000,"ÃÂÃÂT: 43.65394,-79.418784",unknown
 11001,somewhere your not,unknown_location
 11002,Ground Zero,unknown_location
 11003,Ibadan ,Nigeria
-11004,"ÃÂT: 39.166185,-77.206171",unknown
+11004,"ÃÂÃÂT: 39.166185,-77.206171",unknown
 11005,Lancaster District,United Kingdom
 11006,In A Pineapple Under The Sea,unknown_location
 11007,IG: djstickyfingerz,unknown_location
@@ -11020,7 +11020,7 @@ Visualizing Protest in the City https://www.springer.com/gp/book/9789812872357",
 11012,Glasgow ,United Kingdom
 11013,San Francisco/Houston,United States of America
 11014,bombing Jacobinbourg,unknown_location
-11015,RayÃÂs Boom Boom Room,unknown
+11015,RayÃÂÃÂs Boom Boom Room,unknown
 11016,3004 Hickory Rd. Balch Springs,United States of America
 11017,"Lagos, Abuja, Nigeria.",Nigeria
 11018,"Laughlin, Nevada",United States of America
@@ -11072,7 +11072,7 @@ Visualizing Protest in the City https://www.springer.com/gp/book/9789812872357",
 11064,"""DeviantArt"" ",unknown_location
 11065,"Headington, Oxfordshire",United Kingdom
 11066,Morocco,Morocco
-11067,AlgÃÂ©rie,unknown
+11067,AlgÃÂÃÂ©rie,unknown
 11068,"Western Michigan, University",United States of America
 11069,"Redbridge, London.",United Kingdom
 11070,"Riga, Latvia",Latvia
@@ -11099,7 +11099,7 @@ Visualizing Protest in the City https://www.springer.com/gp/book/9789812872357",
 11091,"Wrexham, Wales",United Kingdom
 11092,?????? ????? ??????? ??????,unknown_location
 11093,"Stockport, Cheshire",United Kingdom
-11094,MÃÂ©rida - Los Andes Venezolanos,unknown
+11094,MÃÂÃÂ©rida - Los Andes Venezolanos,unknown
 11095,kampala uganda,Uganda
 11096,"Philly, PA",United States of America
 11097,CLEVELAND OH,United States of America
@@ -11138,7 +11138,7 @@ Visualizing Protest in the City https://www.springer.com/gp/book/9789812872357",
 11130,jp,Japan
 11131,Kamloops,Canada
 11132,"Toronto, Ottawa",Canada
-11133,"BarryÃÂs Bay, ON ??",unknown
+11133,"BarryÃÂÃÂs Bay, ON ??",unknown
 11134,San Diego and Orange County,United States of America
 11135,"Wall Street, SF, Tokyo",unknown_location
 11136,Pittsburgh Pennsylvania,United States of America
@@ -11192,9 +11192,9 @@ Visualizing Protest in the City https://www.springer.com/gp/book/9789812872357",
 11184,"Lorain County, Ohio",United States of America
 11185,"Blaine, MN",United States of America
 11186,"Fort Mill, South Carolina",United States of America
-11187,In HaterÃÂs MinD,unknown
+11187,In HaterÃÂÃÂs MinD,unknown
 11188,"Ventura, California",United States of America
-11189,BloquÃÂ© par ThÃÂ©o Francken,unknown
+11189,BloquÃÂÃÂ© par ThÃÂÃÂ©o Francken,unknown
 11190,The Big Apple,United States of America
 11191,"Barr, Scotland",United Kingdom of Great Britain and Northern Ireland
 11192,"UK, IE & HK",unknown_location
@@ -11223,7 +11223,7 @@ Visualizing Protest in the City https://www.springer.com/gp/book/9789812872357",
 11215,"Te Atatu Peninsula, Auckland",New Zealand
 11216,a pod in the universe,unknown_location
 11217,India - Kolkata,India
-11218,"Aalst, BelgiÃÂ«",unknown
+11218,"Aalst, BelgiÃÂÃÂ«",unknown
 11219,"Citizen, USA",United States
 11220,"Wokingham, England",United Kingdom
 11221,Wales/ London,United Kingdom
@@ -11254,7 +11254,7 @@ Visualizing Protest in the City https://www.springer.com/gp/book/9789812872357",
 11246,"abuja,Nigeria",Nigeria
 11247,"Official page, Purdue EVPRP",unknown_location
 11248,3rd Coasting,unknown_location
-11249,"Panama City, PanamÃÂ¡",unknown
+11249,"Panama City, PanamÃÂÃÂ¡",unknown
 11250,Negara Brunei Darussalam,Brunei Darussalam
 11251,fb.com/demokratischeseuropa,unknown_location
 11252,NYC Metro,United States of America
@@ -11268,7 +11268,7 @@ Visualizing Protest in the City https://www.springer.com/gp/book/9789812872357",
 11260,"Sandy, England",United Kingdom
 11261,"Wakefield, UK",United Kingdom
 11262,Albion MI,United States of America
-11263,"ÃÂT: 4.707374,-74.05005",unknown
+11263,"ÃÂÃÂT: 4.707374,-74.05005",unknown
 11264,Covering the UK,United Kingdom
 11265,"MD, PA, WV, VA",United States of America
 11266,NW London,United Kingdom
@@ -11280,11 +11280,11 @@ Visualizing Protest in the City https://www.springer.com/gp/book/9789812872357",
 11272,United Kindom,United Kingdom
 11273,Boston and Cape Cod ,United States of America
 11274,Gemini under the sun,unknown_location
-11275,N 36ÃÂ°6' 0'' / W 115ÃÂ°6' 0'',unknown
+11275,N 36ÃÂÃÂ°6' 0'' / W 115ÃÂÃÂ°6' 0'',unknown
 11276,Wherever the money is!,unknown_location
 11277,"#Newcastle Upon Tyne, England",United Kingdom
-11278,Minnesota ,unknown
-11279,#GLOBAL #WORLD ,unknown
+11278,Minnesota ,United States
+11279,#GLOBAL #WORLD ,unknown_location
 11280,Oxford County,unknown_location
 11281,20th Arrondissement,France
 11282,"Dartmouth, Nova Scotia",Canada
@@ -11297,7 +11297,7 @@ Visualizing Protest in the City https://www.springer.com/gp/book/9789812872357",
 11289,where the heart is,unknown_location
 11290,MOOCs.University - USA,United States of America
 11291,"165 West St, Sandown, Sandton ",South Africa
-11292,"BrwinÃÂ³w, Polska ?? ?",unknown
+11292,"BrwinÃÂÃÂ³w, Polska ?? ?",unknown
 11293,Athens,Greece
 11294,Londoner living in Bristol,United Kingdom
 11295,Northern Virginia,United States of America
@@ -11306,7 +11306,7 @@ Visualizing Protest in the City https://www.springer.com/gp/book/9789812872357",
 11298,"Roma, Italia",Italy
 11299,"Mumbai, Maharashtra, India",India
 11300,In awe of some people's nerve.,unknown_location
-11301,ÃÂThe Garden Of EnglandÃÂ ???,unknown
+11301,ÃÂÃÂThe Garden Of EnglandÃÂÃÂ ???,unknown
 11302,Honolulu,United States of America
 11303,"Johnson City, TN",United States of America
 11304,"Rayleigh, East",United Kingdom
@@ -11344,7 +11344,7 @@ Visualizing Protest in the City https://www.springer.com/gp/book/9789812872357",
 11336,/austria/vienna;nova_gora,Austria
 11337,"Mumbai , India",India
 11338,"1,100 miles away from WDW",unknown_location
-11339,"Valencia, EspaÃÂ±a",unknown
+11339,"Valencia, EspaÃÂÃÂ±a",unknown
 11340,Sudbury,unknown_location
 11341,"Hornchurch, london ",United Kingdom
 11342,Florida Suncoast,United States of America
@@ -11355,7 +11355,7 @@ Visualizing Protest in the City https://www.springer.com/gp/book/9789812872357",
 11347,"Kerrville, TX",United States
 11348,"BROOKLYN, NY",United States
 11349,"Greater Lansing, MI",United States
-11350,"MalmÃÂ¶, Sweden",unknown
+11350,"MalmÃÂÃÂ¶, Sweden",unknown
 11351,God's Will,unknown_location
 11352,"Currently: Aberdeen, SCO",United Kingdom
 11353,Waikato,New Zealand
@@ -11414,7 +11414,7 @@ Visualizing Protest in the City https://www.springer.com/gp/book/9789812872357",
 11406,"Santa Rosa, California, USA",United States of America
 11407,HTX??ATL??D(M)V,unknown_location
 11408,Eu,unknown_location
-11409,"Budapest, MagyarorszÃÂ¡g",unknown
+11409,"Budapest, MagyarorszÃÂÃÂ¡g",unknown
 11410,16th Avenue & Arbutus ,unknown_location
 11411,Up there?in the zenith.,unknown_location
 11412,? ??,unknown_location
@@ -11432,8 +11432,8 @@ Visualizing Protest in the City https://www.springer.com/gp/book/9789812872357",
 11424,"Columbia, Missouri",United States of America
 11425,"London, uk",United Kingdom
 11426,"Calne, Wiltshire",United Kingdom
-11427,Out of this worldÃÂ»SFC  ,unknown
-11428,AzeitÃÂ£o,unknown
+11427,Out of this worldÃÂÃÂ»SFC  ,unknown
+11428,AzeitÃÂÃÂ£o,unknown
 11429,Bukit Minyak,unknown_location
 11430,British European ,unknown_location
 11431,London SE17,United Kingdom
@@ -11455,14 +11455,14 @@ Visualizing Protest in the City https://www.springer.com/gp/book/9789812872357",
 11447,?TEXAS? #VoteRed ,United States of America
 11448,Nevaland,unknown_location
 11449,Paradise ,unknown_location
-11450,Alvin ÃÂ La Marque ÃÂ Galveston,unknown
+11450,Alvin ÃÂÃÂ La Marque ÃÂÃÂ Galveston,unknown
 11451,"Musina, South Africa",South Africa
 11452,Fairford,United Kingdom
 11453,chicago & seattle,United States of America
 11454,"Murrells Inlet, SC",United States of America
 11455,"Langley, BC",Canada
 11456,Herefordshire,United Kingdom
-11457,"ÃÂbo, Finland",unknown
+11457,"ÃÂÃÂbo, Finland",unknown
 11458,Cariati M. Calabria,Italy
 11459,"Owen Sound, Ontario",Canada
 11460,jesus pobre,unknown_location
@@ -11470,7 +11470,7 @@ Visualizing Protest in the City https://www.springer.com/gp/book/9789812872357",
 11462,Bel Pre Road D(M)V Since 1980,unknown_location
 11463,SoCal 833-425-8368,unknown_location
 11464,Oakland,United States of America
-11465,ItÃÂs Always Sunny in Waterford,unknown
+11465,ItÃÂÃÂs Always Sunny in Waterford,unknown
 11466,"Instow & Appledore, Devon",United Kingdom
 11467,Silicon Valley and London.,unknown_location
 11468,"Widnes, England ",United Kingdom
@@ -11491,12 +11491,12 @@ Visualizing Protest in the City https://www.springer.com/gp/book/9789812872357",
 11483,"Bombay, India",India
 11484,A White Room,unknown_location
 11485,Nigeria/Worldwide,Nigeria
-11486,Leith. Scotland. ,unknown
+11486,Leith. Scotland. ,United Kingdom
 11487,"Mumbai,MH,India",India
 11488,locale,unknown_location
 11489,GURGAON,India
 11490,"Budgam, J&K",India
-11491,Bristol/BarbÃÂ¨s/Beyond,unknown
+11491,Bristol/BarbÃÂÃÂ¨s/Beyond,unknown
 11492,Columbus,United States
 11493,"Toronto,ON",Canada
 11494,"Montgomery Village, MD",United States of America
