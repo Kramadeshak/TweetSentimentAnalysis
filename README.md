@@ -29,3 +29,7 @@ The names and usernames have purposely been given codes to hide privacy.
 4. TweetAt
 5. Original Tweet
 6. Sentiment
+
+## Approach
+
+Tried extracting the unique locations so that it can be used in tweet analysis
